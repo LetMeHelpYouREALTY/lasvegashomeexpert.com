@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import type React from 'react';
 
 // TypeScript declarations for RealScout web components
-declare global {
+declare module 'react' {
   namespace JSX {
     interface IntrinsicElements {
       'realscout-advanced-search': React.DetailedHTMLProps<
