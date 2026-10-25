@@ -16,7 +16,10 @@ declare global {
     CloudCMA?: any;
     PercyAI?: any;
   }
+}
 
+// React 19 types moved JSX under the react module.
+declare module 'react' {
   namespace JSX {
     interface IntrinsicElements {
       'realscout-office-listings': {

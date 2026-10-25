@@ -203,7 +203,7 @@ function buildPrompt(
 	focusAreas: string[],
 	includeCTA: boolean,
 ): string {
-	const lengthReqs = {
+	const lengthReqs: Record<string, string> = {
 		short: '100-125 words (concise overview)',
 		medium: '150-200 words (balanced detail)',
 		long: '225-275 words (comprehensive description)',
