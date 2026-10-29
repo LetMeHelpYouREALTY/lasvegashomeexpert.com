@@ -61,13 +61,13 @@ export const faqData: FAQItem[] = [
   {
     question: 'What makes Red Rock Country Club special?',
     answer:
-      'Red Rock Country Club is known for its stunning mountain views, world-class golf course, luxury amenities, privacy, and exclusive community feel. It offers large lots, custom homes, and proximity to Red Rock Canyon while maintaining easy access to the Strip.',
+      'Red Rock Country Club is known for its stunning mountain views, world-class golf course, luxury amenities, privacy, and luxury community feel. It offers large lots, custom homes, and proximity to Red Rock Canyon while maintaining easy access to the Strip.',
     category: 'neighborhoods',
   },
   {
     question: 'Why choose Summerlin for luxury living?',
     answer:
-      "Summerlin offers master-planned community design, excellent schools, shopping and dining options, parks and trails, safety, and a family-friendly atmosphere. It's consistently ranked as one of the best places to live in Nevada with strong property values.",
+      "Summerlin offers master-planned community design, nearby public and private schools, shopping and dining options, parks and trails. It's regularly ranked as one of the best places to live in Nevada with strong property values.",
     category: 'neighborhoods',
   },
   {
@@ -79,7 +79,7 @@ export const faqData: FAQItem[] = [
   {
     question: 'Is Henderson a good area for luxury homes?',
     answer:
-      'Yes, Henderson offers excellent luxury home options with newer construction, master-planned communities, good schools, lower crime rates, and proximity to the airport. Areas like MacDonald Highlands and Anthem provide luxury living with great value.',
+      'Yes, Henderson offers excellent luxury home options with newer construction, master-planned communities, nearby public schools, and proximity to the airport. Areas like MacDonald Highlands and Anthem provide luxury living with great value.',
     category: 'neighborhoods',
   },
 

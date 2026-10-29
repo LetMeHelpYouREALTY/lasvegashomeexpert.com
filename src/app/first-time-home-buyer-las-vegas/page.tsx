@@ -72,13 +72,13 @@ export default function FirstTimeHomeBuyerPage() {
     {
       name: 'Henderson',
       avgPrice: '$450k',
-      features: 'Family-friendly, great schools, parks',
+      features: 'Nearby public schools, parks',
       commute: '20 min to Strip',
     },
     {
       name: 'Green Valley',
       avgPrice: '$420k',
-      features: 'Safe community, shopping, dining',
+      features: 'Community, shopping, dining',
       commute: '25 min to Strip',
     },
     {
@@ -260,7 +260,7 @@ export default function FirstTimeHomeBuyerPage() {
               Perfect Starter Neighborhoods
             </h2>
             <p className="text-xl text-neutral-600">
-              Family-friendly areas perfect for first-time buyers
+              Areas perfect for first-time buyers
             </p>
           </motion.div>
 
@@ -374,7 +374,7 @@ export default function FirstTimeHomeBuyerPage() {
                 Las Vegas offers exceptional opportunities for first-time homebuyers, with
                 affordable housing options, favorable financing programs, and strong appreciation
                 potential. The city's diverse neighborhoods provide options for various budgets and
-                lifestyles, from starter homes in established communities to new construction in
+                lifestyles, from starter homes in communities to new construction in
                 growing areas.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">

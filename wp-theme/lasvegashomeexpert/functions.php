@@ -86,7 +86,7 @@ function lasvegashomeexpert_add_schema() {
             'name' => 'Dr. Jan Duffy',
             'description' => 'Las Vegas luxury real estate specialist since 2013',
             'url' => home_url(),
-            'telephone' => '702-222-1964',
+            'telephone' => '702-500-1955',
             'email' => 'DrJanSells@LasVegasHomeExpert.com',
             'image' => get_template_directory_uri() . '/assets/images/dr-jan-duffy.jpg',
             'address' => array(
@@ -157,7 +157,7 @@ add_filter('excerpt_length', 'lasvegashomeexpert_excerpt_length');
 /**
  * Phone Link Helper
  */
-function lvhe_phone_link($phone = '702-222-1964') {
+function lvhe_phone_link($phone = '702-500-1955') {
     return 'tel:' . preg_replace('/[^0-9]/', '', $phone);
 }
 

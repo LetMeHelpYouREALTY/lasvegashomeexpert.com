@@ -18,7 +18,7 @@ const KnowledgeGraphSchema: FC<KnowledgeGraphSchemaProps> = ({ pageUrl, pageType
         description:
           'Las Vegas luxury real estate specialist with 10+ years of experience, specializing in luxury homes, divorce real estate, and veteran services throughout the Las Vegas Valley.',
         url: 'https://lasvegashomeexpert.com',
-        telephone: '702-222-1964',
+        telephone: '702-500-1955',
         email: 'DrJanSells@LasVegasHomeExpert.com',
         image: 'https://lasvegashomeexpert.com/dr-jan-duffy.jpg',
         jobTitle: 'Real Estate Agent',
@@ -91,7 +91,7 @@ const KnowledgeGraphSchema: FC<KnowledgeGraphSchemaProps> = ({ pageUrl, pageType
         sameAs: [],
         contactPoint: {
           '@type': 'ContactPoint',
-          telephone: '702-222-1964',
+          telephone: '702-500-1955',
           email: 'DrJanSells@LasVegasHomeExpert.com',
           contactType: 'Customer Service',
           areaServed: 'US',

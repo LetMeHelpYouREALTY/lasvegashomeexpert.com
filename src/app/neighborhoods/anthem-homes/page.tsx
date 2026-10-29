@@ -144,7 +144,7 @@ export default function AnthemHomesPage() {
 
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
               <div className="text-6xl mb-4">🎓</div>
-              <h3 className="text-xl font-bold text-slate-800 mb-4">Top Schools</h3>
+              <h3 className="text-xl font-bold text-slate-800 mb-4">Nearby Public Schools</h3>
               <p className="text-slate-600">
                 A-rated public schools and private education options within the community
               </p>
@@ -248,9 +248,9 @@ export default function AnthemHomesPage() {
               </div>
               <ul className="space-y-2 text-slate-700 mb-6">
                 <li>• 3,000-5,000+ sq ft</li>
-                <li>• Family-friendly layouts</li>
+                <li>• Layouts</li>
                 <li>• Community amenities</li>
-                <li>• Excellent schools</li>
+                <li>• Nearby public schools</li>
               </ul>
               <button
                 type="button"
@@ -327,7 +327,7 @@ export default function AnthemHomesPage() {
                 <div className="bg-white rounded-lg p-6 shadow-md">
                   <h4 className="font-semibold text-slate-800 mb-2">Family Appeal</h4>
                   <p className="text-slate-600">
-                    Excellent schools and amenities attract high-income families
+                    Nearby public schools and amenities attract high-income families
                   </p>
                 </div>
               </div>
@@ -397,7 +397,7 @@ export default function AnthemHomesPage() {
               }
               className="btn-accent-buyer text-lg px-8 py-4"
             >
-              Call (702) 222-1964
+              Call (702) 500-1955
             </button>
             <button
               type="button"
@@ -440,7 +440,7 @@ export default function AnthemHomesPage() {
                 amenities, golf courses, parks, and world-class facilities. This premier
                 master-planned community features luxury homes designed for families and
                 professionals seeking quality living with comprehensive amenities and
-                family-oriented environment.
+                parks and community amenities.
               </p>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 The community's location in Henderson provides residents with a quieter, more
@@ -456,7 +456,7 @@ export default function AnthemHomesPage() {
                 construction, modern designs, and access to community amenities. Properties
                 typically include 2,500 to 6,000 square feet of living space, private yards, and
                 modern finishes. The community's luxury homes appeal to families and professionals
-                seeking luxury living with family-oriented amenities.
+                seeking luxury living with amenities.
               </p>
             </div>
 
@@ -466,7 +466,7 @@ export default function AnthemHomesPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Anthem offers luxury homebuyers exceptional value through master-planned community
-                amenities, excellent schools, strong appreciation, and family-friendly environment.
+                amenities, nearby schools, strong appreciation, and parks and community amenities.
                 The community's median price of $950,000 represents excellent value for luxury
                 living, while providing access to comprehensive amenities and lifestyle options.
               </p>

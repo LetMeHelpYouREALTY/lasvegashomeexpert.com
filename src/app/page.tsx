@@ -1,6 +1,7 @@
 'use client';
 
 import HeroSection from '@/components/sections/HeroSection';
+import FeaturedListing from '@/components/sections/FeaturedListing';
 import InteractiveToolSection from '@/components/sections/InteractiveToolSection';
 import LuxuryPropertiesSection from '@/components/sections/LuxuryPropertiesSection';
 import LuxuryServicesSection from '@/components/sections/LuxuryServicesSection';
@@ -60,7 +61,7 @@ export default function HomePage() {
             name: 'Dr. Jan Duffy',
             description: 'Las Vegas luxury real estate specialist since 2013',
             url: 'https://lasvegashomeexpert.com',
-            telephone: '702-222-1964',
+            telephone: '702-500-1955',
             email: 'DrJanSells@LasVegasHomeExpert.com',
             image: 'https://lasvegashomeexpert.com/dr-jan-duffy.jpg',
             address: {
@@ -162,6 +163,12 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <HeroSection />
+      <FeaturedListing
+        phone="(702) 500-1955"
+        phoneHref="tel:+17025001955"
+        siteHost="lasvegashomeexpert.com"
+      />
+
 
       {/* Featured Las Vegas Homes Section */}
       <section className="featured-listings bg-white py-16 px-4">
@@ -471,7 +478,7 @@ export default function HomePage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:702-222-1964"
+              href="tel:702-500-1955"
               onClick={() =>
                 trackEvent({
                   event: 'cta_click',
@@ -488,7 +495,7 @@ export default function HomePage() {
               }
               className="btn-accent-buyer text-lg px-8 py-4 inline-block"
             >
-              Call (702) 222-1964
+              Call (702) 500-1955
             </a>
             <a
               href="mailto:DrJanSells@LasVegasHomeExpert.com"

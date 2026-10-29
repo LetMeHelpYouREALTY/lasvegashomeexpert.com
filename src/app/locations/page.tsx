@@ -126,11 +126,11 @@ export default function LocationsPage() {
                   <p className="text-slate-700">
                     Phone:{' '}
                     <a
-                      href="tel:7022221964"
+                      href="tel:7025001955"
                       className="text-primary-600 hover:underline font-semibold"
                       onClick={() => handleCTAClick('phone')}
                     >
-                      (702) 222-1964
+                      (702) 500-1955
                     </a>
                     <br />
                     Email:{' '}

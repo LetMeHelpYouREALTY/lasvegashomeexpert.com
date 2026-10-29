@@ -48,8 +48,8 @@ const StoreLocatorSection: FC<StoreLocatorSectionProps> = ({
             </p>
             <p className="text-slate-600 mt-2">
               Phone:{' '}
-              <a href="tel:7022221964" className="text-primary-600 hover:underline">
-                (702) 222-1964
+              <a href="tel:7025001955" className="text-primary-600 hover:underline">
+                (702) 500-1955
               </a>
             </p>
           </div>

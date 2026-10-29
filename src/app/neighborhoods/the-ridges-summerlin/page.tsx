@@ -189,7 +189,7 @@ export default function TheRidgesSummerlinPage() {
           >
             <h2 className="text-4xl font-bold text-primary-900 mb-4">The Ridges Market Analysis</h2>
             <p className="text-xl text-neutral-600">
-              Current market insights and trends for this exclusive community
+              Current market insights and trends for this community
             </p>
           </motion.div>
 
@@ -254,7 +254,7 @@ export default function TheRidgesSummerlinPage() {
           >
             <h2 className="text-4xl font-bold text-primary-900 mb-4">Recent Sales in The Ridges</h2>
             <p className="text-xl text-neutral-600">
-              See what homes are selling for in this exclusive community
+              See what homes are selling for in this community
             </p>
           </motion.div>
 
@@ -361,7 +361,7 @@ export default function TheRidgesSummerlinPage() {
                 The Ridges Summerlin represents the pinnacle of luxury living in Las Vegas, with
                 homes commanding median prices of $2.3 million and featuring ultra-luxury estates
                 positioned on elevated sites offering panoramic views of the Las Vegas Strip,
-                surrounding mountains, and the valley below. This exclusive community offers the
+                surrounding mountains, and the valley below. This community offers the
                 highest level of luxury living in Las Vegas.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">

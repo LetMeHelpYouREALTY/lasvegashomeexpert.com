@@ -54,7 +54,7 @@ export const luxuryServices: LuxuryService[] = [
     title: 'Estate Curation & Portfolio Development',
     subtitle: 'Strategic Luxury Real Estate Portfolio Management',
     description:
-      "Comprehensive estate curation service for building and managing luxury real estate portfolios across Las Vegas's most exclusive neighborhoods.",
+      "Comprehensive estate curation service for building and managing luxury real estate portfolios across Las Vegas's most luxury neighborhoods.",
     priceRange: '$5M - $50M+',
     targetMarket: 'Ultra-high-net-worth individuals, family offices, institutional investors',
     neighborhoods: [

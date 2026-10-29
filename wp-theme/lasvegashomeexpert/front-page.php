@@ -24,8 +24,8 @@ get_header();
                     <a href="<?php echo esc_url(home_url('/contact')); ?>" class="bg-white text-blue-900 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-50 transition-colors duration-200 text-center">
                         Get Started
                     </a>
-                    <a href="tel:702-222-1964" class="bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-600 transition-colors duration-200 text-center">
-                        Call (702) 222-1964
+                    <a href="tel:702-500-1955" class="bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-600 transition-colors duration-200 text-center">
+                        Call (702) 500-1955
                     </a>
                 </div>
             </div>
@@ -260,8 +260,8 @@ get_header();
                 Dr. Jan Duffy is here to guide you through every step of your luxury real estate journey.
             </p>
             <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                <a href="tel:702-222-1964" class="bg-blue-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-700 transition-colors duration-200">
-                    Call (702) 222-1964
+                <a href="tel:702-500-1955" class="bg-blue-600 text-white px-8 py-4 rounded-lg font-semibold text-lg hover:bg-blue-700 transition-colors duration-200">
+                    Call (702) 500-1955
                 </a>
                 <a href="mailto:DrJanSells@LasVegasHomeExpert.com" class="bg-white text-slate-900 px-8 py-4 rounded-lg font-semibold text-lg hover:bg-slate-100 transition-colors duration-200">
                     Send Email

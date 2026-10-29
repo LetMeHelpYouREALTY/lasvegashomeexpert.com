@@ -37,8 +37,8 @@ export default function SouthernHighlandsPage() {
           </div>
 
           <p className="text-xl sm:text-2xl text-slate-300 max-w-4xl mx-auto leading-relaxed">
-            Discover family-friendly luxury living at Southern Highlands. Dr. Jan Duffy specializes
-            in this master-planned community with excellent schools, parks, and luxury amenities.
+            Discover luxury living at Southern Highlands. Dr. Jan Duffy specializes
+            in this master-planned community with nearby public schools, parks, and luxury amenities.
           </p>
 
           {/* CTA Buttons */}
@@ -95,7 +95,7 @@ export default function SouthernHighlandsPage() {
               Southern Highlands Properties
             </h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-              Family-friendly luxury homes with excellent schools and community amenities in
+              luxury homes with nearby schools and community amenities in
               Henderson
             </p>
           </div>
@@ -130,7 +130,7 @@ export default function SouthernHighlandsPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
               <div className="text-6xl mb-4">🎓</div>
-              <h3 className="text-xl font-bold text-slate-800 mb-4">Top-Rated Schools</h3>
+              <h3 className="text-xl font-bold text-slate-800 mb-4">Nearby Public Schools</h3>
               <p className="text-slate-600">
                 A-rated public schools and private education options within walking distance
               </p>
@@ -305,7 +305,7 @@ export default function SouthernHighlandsPage() {
                 <div className="bg-white rounded-lg p-6 shadow-md">
                   <h4 className="font-semibold text-slate-800 mb-2">Family Appeal</h4>
                   <p className="text-slate-600">
-                    High demand from families seeking quality schools and amenities
+                    High demand from families seeking nearby public schools and amenities
                   </p>
                 </div>
               </div>
@@ -315,9 +315,9 @@ export default function SouthernHighlandsPage() {
               <h3 className="text-2xl font-bold text-slate-800 mb-6">Lifestyle Benefits</h3>
               <div className="space-y-4">
                 <div className="bg-white rounded-lg p-6 shadow-md">
-                  <h4 className="font-semibold text-slate-800 mb-2">Family-Friendly</h4>
+                  <h4 className="font-semibold text-slate-800 mb-2">Parks & Recreation</h4>
                   <p className="text-slate-600">
-                    Excellent schools, parks, and safe community environment
+                    Nearby public schools, parks, and community environment
                   </p>
                 </div>
                 <div className="bg-white rounded-lg p-6 shadow-md">
@@ -378,7 +378,7 @@ export default function SouthernHighlandsPage() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6">Ready to Find Your Southern Highlands Home?</h2>
           <p className="text-xl mb-8 text-slate-200">
-            Dr. Jan Duffy is your Southern Highlands specialist. Discover family-friendly luxury
+            Dr. Jan Duffy is your Southern Highlands specialist. Discover luxury
             living.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -400,7 +400,7 @@ export default function SouthernHighlandsPage() {
               }
               className="btn-accent-buyer text-lg px-8 py-4"
             >
-              Call (702) 222-1964
+              Call (702) 500-1955
             </button>
             <button
               type="button"
@@ -436,14 +436,14 @@ export default function SouthernHighlandsPage() {
           <div className="grid md:grid-cols-2 gap-12 mb-12">
             <div>
               <h3 className="text-2xl font-bold text-slate-800 mb-6">
-                Southern Highlands: Family-Friendly Luxury Living
+                Southern Highlands: Luxury Living
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
-                Southern Highlands offers luxury living in a family-friendly environment, with homes
-                averaging $850,000 and featuring access to excellent schools, parks, and community
+                Southern Highlands offers luxury living in an environment, with homes
+                averaging $850,000 and featuring access to public schools, parks, and community
                 amenities. This master-planned community provides luxury lifestyle options at more
                 accessible price points, making it attractive to families seeking luxury living with
-                family-oriented amenities.
+                amenities.
               </p>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 The community's location in southwest Las Vegas provides residents with easy access
@@ -469,7 +469,7 @@ export default function SouthernHighlandsPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Southern Highlands offers luxury homebuyers exceptional value through master-planned
-                community amenities, excellent schools, strong appreciation, and family-friendly
+                community amenities, nearby schools, strong appreciation, and
                 environment. The community's median price of $850,000 represents excellent value for
                 luxury living, while providing access to comprehensive amenities and lifestyle
                 options.
@@ -487,7 +487,7 @@ export default function SouthernHighlandsPage() {
                 Dr. Jan Duffy specializes in Southern Highlands real estate, with extensive
                 knowledge of the community's properties, market conditions, and buyer preferences.
                 Her expertise in master-planned communities enables her to help buyers find
-                properties that match their lifestyle and investment goals in this family-friendly
+                properties that match their lifestyle and investment goals in this
                 luxury community.
               </p>
             </div>
@@ -499,11 +499,11 @@ export default function SouthernHighlandsPage() {
             </h3>
             <div className="grid md:grid-cols-2 gap-8">
               <div>
-                <h4 className="text-xl font-bold text-slate-800 mb-4">Family-Friendly Luxury</h4>
+                <h4 className="text-xl font-bold text-slate-800 mb-4">Luxury</h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Southern Highlands combines luxury living with family-friendly amenities, creating
+                  Southern Highlands combines luxury living with amenities, creating
                   an environment that appeals to families seeking luxury lifestyle options. The
-                  community's excellent schools, parks, and recreational facilities support family
+                  community's nearby public schools, parks, and recreational facilities support family
                   life while providing luxury amenities that enhance quality of life.
                 </p>
                 <p className="text-slate-600 leading-relaxed">

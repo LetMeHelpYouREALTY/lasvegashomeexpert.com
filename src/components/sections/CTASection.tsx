@@ -136,7 +136,7 @@ export default function CTASection() {
                 <h3 className="text-2xl font-bold mb-4">Contact Information</h3>
                 <div className="space-y-3 text-primary-100">
                   <p>📍 Las Vegas, NV</p>
-                  <p>📞 (702) 222-1964</p>
+                  <p>📞 (702) 500-1955</p>
                   <p>✉️ DrJanSells@LasVegasHomeExpert.com</p>
                   <p>🕒 Mon-Sun: 24/7 Support</p>
                 </div>

@@ -38,7 +38,7 @@ export default function TournamentHillsPage() {
 
           <p className="text-xl sm:text-2xl text-slate-300 max-w-4xl mx-auto leading-relaxed">
             Discover championship golf living at Tournament Hills. Dr. Jan Duffy specializes in this
-            exclusive community featuring luxury homes, resort amenities, and pristine golf courses.
+            community featuring luxury homes, resort amenities, and pristine golf courses.
           </p>
 
           {/* CTA Buttons */}
@@ -401,7 +401,7 @@ export default function TournamentHillsPage() {
               }
               className="btn-accent-buyer text-lg px-8 py-4"
             >
-              Call (702) 222-1964
+              Call (702) 500-1955
             </button>
             <button
               type="button"
@@ -443,11 +443,11 @@ export default function TournamentHillsPage() {
                 Tournament Hills homes offer luxury living in Summerlin with access to championship
                 golf, mountain views, and exclusive amenities. This premier community features
                 luxury homes designed for golf enthusiasts and luxury lifestyle seekers who value
-                exclusive access, premium amenities, and family-friendly environment.
+                private amenities, premium amenities, and parks.
               </p>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 The community's location in Summerlin provides residents with access to world-class
-                amenities including shopping centers, restaurants, parks, and excellent schools.
+                amenities including shopping centers, restaurants, parks, and nearby public schools.
                 Tournament Hills' gated security and private club facilities create an exclusive
                 environment that appeals to luxury homebuyers seeking both lifestyle and investment
                 value.
@@ -460,7 +460,7 @@ export default function TournamentHillsPage() {
                 construction, modern designs, and access to golf course and community amenities.
                 Properties typically include 3,000 to 6,000 square feet of living space, private
                 yards, and modern finishes. The community's luxury homes appeal to families and
-                professionals seeking luxury living with family-oriented amenities.
+                professionals seeking luxury living with amenities.
               </p>
             </div>
 
@@ -470,7 +470,7 @@ export default function TournamentHillsPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Tournament Hills offers luxury homebuyers exceptional value through golf course
-                access, family-friendly amenities, strong appreciation, and exclusive community
+                access, community amenities, strong appreciation, and guard-gated
                 environment. The community's median price of $1.2 million represents excellent value
                 for luxury golf course living, while providing access to comprehensive amenities and
                 lifestyle options.
@@ -518,12 +518,12 @@ export default function TournamentHillsPage() {
 
               <div>
                 <h4 className="text-xl font-bold text-slate-800 mb-4">
-                  Family-Friendly Luxury Lifestyle
+                  Luxury Lifestyle
                 </h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Tournament Hills features family-friendly amenities including parks, playgrounds,
+                  Tournament Hills features amenities including parks, playgrounds,
                   recreational facilities, and community events that support family life. The
-                  community's commitment to providing family-oriented amenities while maintaining
+                  community's commitment to providing amenities while maintaining
                   luxury standards creates an environment that appeals to luxury homebuyers with
                   children.
                 </p>

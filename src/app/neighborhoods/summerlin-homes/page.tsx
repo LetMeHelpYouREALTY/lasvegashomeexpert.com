@@ -248,9 +248,9 @@ export default function SummerlinHomesPage() {
               </div>
               <ul className="space-y-2 text-slate-700 mb-6">
                 <li>• 3,000-5,000+ sq ft</li>
-                <li>• Family-friendly layouts</li>
+                <li>• Layouts</li>
                 <li>• Community amenities</li>
-                <li>• Excellent schools</li>
+                <li>• Nearby public schools</li>
               </ul>
               <button
                 type="button"
@@ -397,7 +397,7 @@ export default function SummerlinHomesPage() {
               }
               className="btn-accent-buyer text-lg px-8 py-4"
             >
-              Call (702) 222-1964
+              Call (702) 500-1955
             </button>
             <button
               type="button"
@@ -437,7 +437,7 @@ export default function SummerlinHomesPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Summerlin stands as Las Vegas's premier master-planned community, offering luxury
-                homes with access to world-class amenities, excellent schools, and exceptional
+                homes with access to world-class amenities, nearby public schools, and exceptional
                 quality of life. This 22,500-acre master-planned community features multiple
                 villages, each with unique characteristics and amenities, creating diverse housing
                 options for luxury homebuyers.
@@ -469,7 +469,7 @@ export default function SummerlinHomesPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Summerlin offers luxury homebuyers exceptional value through master-planned
-                community amenities, excellent schools, strong appreciation, and high quality of
+                community amenities, nearby public schools, strong appreciation, and high quality of
                 life. The community's median home price of $1.8 million represents excellent value
                 compared to luxury communities in other major metropolitan areas, while providing
                 access to world-class amenities and lifestyle options.
@@ -521,18 +521,18 @@ export default function SummerlinHomesPage() {
 
               <div>
                 <h4 className="text-xl font-bold text-slate-800 mb-4">
-                  Excellent Schools and Family-Friendly Environment
+                  Nearby Schools and Parks
                 </h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Summerlin features excellent schools that are consistently ranked among Nevada's
-                  best. The community's family-friendly environment, safe neighborhoods, and
-                  comprehensive amenities make it ideal for families seeking luxury living with
-                  family-oriented amenities. This combination appeals to luxury homebuyers with
+                  Summerlin features nearby public schools that are consistently ranked among Nevada's
+                  best. The community's environment, neighborhoods, and
+                  comprehensive amenities make it a strong choice for buyers seeking luxury living with
+                  amenities. This combination appeals to luxury homebuyers with
                   children or those planning families.
                 </p>
                 <p className="text-slate-600 leading-relaxed">
                   The community's commitment to education and family services ensures residents have
-                  access to resources that support family life. This family-friendly focus combined
+                  access to parks, schools, and community centers. This amenity focus combined
                   with luxury amenities creates an environment that appeals to luxury homebuyers
                   seeking both lifestyle and family support.
                 </p>
