@@ -397,7 +397,7 @@ export default function SummerlinHomesPage() {
               }
               className="btn-accent-buyer text-lg px-8 py-4"
             >
-              Call (702) 222-1964
+              Call (702) 500-1955
             </button>
             <button
               type="button"
