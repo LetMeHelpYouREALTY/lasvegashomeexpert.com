@@ -1,6 +1,7 @@
 'use client';
 
 import HeroSection from '@/components/sections/HeroSection';
+import FeaturedListing from '@/components/sections/FeaturedListing';
 import InteractiveToolSection from '@/components/sections/InteractiveToolSection';
 import LuxuryPropertiesSection from '@/components/sections/LuxuryPropertiesSection';
 import LuxuryServicesSection from '@/components/sections/LuxuryServicesSection';
@@ -162,6 +163,12 @@ export default function HomePage() {
 
       {/* Hero Section */}
       <HeroSection />
+      <FeaturedListing
+        phone="(702) 842-0410"
+        phoneHref="tel:+17028420410"
+        siteHost="lasvegashomeexpert.com"
+      />
+
 
       {/* Featured Las Vegas Homes Section */}
       <section className="featured-listings bg-white py-16 px-4">
