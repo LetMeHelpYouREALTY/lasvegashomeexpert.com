@@ -66,21 +66,21 @@ export default function RelocationSpecialistPage() {
       avgPrice: '$650k',
       commute: '25 min to Strip',
       features: 'Master-planned, golf courses, shopping, schools',
-      description: 'Family-friendly master-planned community with luxury amenities',
+      description: 'Master-planned community with luxury amenities',
     },
     {
       name: 'Henderson',
       avgPrice: '$480k',
       commute: '20 min to Strip',
-      features: 'Great schools, parks, family atmosphere, growing',
-      description: 'Affordable family community with excellent schools and amenities',
+      features: 'Nearby schools, parks, community events, growing',
+      description: 'Affordable family community with nearby public schools and amenities',
     },
     {
       name: 'Green Valley',
       avgPrice: '$420k',
       commute: '25 min to Strip',
       features: 'Established, safe, shopping, dining, parks',
-      description: 'Established community with mature landscaping and amenities',
+      description: 'Community with mature landscaping and amenities',
     },
     {
       name: 'Anthem',
@@ -98,7 +98,7 @@ export default function RelocationSpecialistPage() {
     'Entertainment Capital',
     'Growing Job Market',
     'Outdoor Recreation',
-    'Family-Friendly Communities',
+    'Communities',
     'International Airport Access',
   ];
 
@@ -375,7 +375,7 @@ export default function RelocationSpecialistPage() {
               Perfect Homes for Relocating Families
             </h2>
             <p className="text-xl text-neutral-600">
-              Browse properties ideal for families moving to Las Vegas
+              Browse properties ideal for buyers moving to Las Vegas
             </p>
           </motion.div>
 
@@ -459,9 +459,9 @@ export default function RelocationSpecialistPage() {
               </h3>
               <p className="text-lg text-neutral-600 leading-relaxed">
                 Las Vegas offers diverse neighborhoods that appeal to different lifestyles and
-                budgets. Summerlin provides master-planned communities with excellent schools and
-                amenities. Henderson offers family-friendly neighborhoods with strong community
-                infrastructure. Green Valley features established neighborhoods with mature trees
+                budgets. Summerlin provides master-planned communities with nearby public schools and
+                amenities. Henderson offers master-planned neighborhoods with strong community
+                infrastructure. Green Valley features older neighborhoods with mature trees
                 and well-maintained properties. Dr. Jan Duffy helps relocating families identify
                 neighborhoods that match their needs and preferences.
               </p>

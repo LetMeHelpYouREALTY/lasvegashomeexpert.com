@@ -248,9 +248,9 @@ export default function MountainsEdgePage() {
               </div>
               <ul className="space-y-2 text-slate-700 mb-6">
                 <li>• 1,800-3,500+ sq ft</li>
-                <li>• Family-friendly</li>
+                <li>• Parks nearby</li>
                 <li>• Community amenities</li>
-                <li>• Great schools nearby</li>
+                <li>• Nearby public schools nearby</li>
               </ul>
               <button
                 type="button"

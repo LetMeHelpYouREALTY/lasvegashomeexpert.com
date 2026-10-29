@@ -193,7 +193,7 @@ export default function RedRockCountryClubPage() {
               Red Rock Country Club Market Analysis
             </h2>
             <p className="text-xl text-neutral-600">
-              Current market insights and trends for this exclusive community
+              Current market insights and trends for this community
             </p>
           </motion.div>
 
@@ -260,7 +260,7 @@ export default function RedRockCountryClubPage() {
               Recent Sales in Red Rock Country Club
             </h2>
             <p className="text-xl text-neutral-600">
-              See what homes are selling for in this exclusive community
+              See what homes are selling for in this community
             </p>
           </motion.div>
 
@@ -372,7 +372,7 @@ export default function RedRockCountryClubPage() {
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 The community's location in Summerlin provides residents with access to world-class
-                amenities including shopping centers, restaurants, parks, and excellent schools. Red
+                amenities including shopping centers, restaurants, parks, and nearby public schools. Red
                 Rock Country Club's gated security and private club facilities create an exclusive
                 environment that appeals to luxury homebuyers seeking both lifestyle and investment
                 value.

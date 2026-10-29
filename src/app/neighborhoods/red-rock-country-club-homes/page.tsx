@@ -335,7 +335,7 @@ export default function RedRockCountryClubPage() {
                 <div className="bg-white rounded-lg p-6 shadow-md">
                   <h4 className="font-semibold text-slate-800 mb-2">Prestige & Privacy</h4>
                   <p className="text-slate-600">
-                    Gated security and exclusive community atmosphere
+                    Gated security and community atmosphere
                   </p>
                 </div>
               </div>
@@ -450,7 +450,7 @@ export default function RedRockCountryClubPage() {
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Red Rock Country Club homes represent Las Vegas's premier golf course living,
                 offering luxury estates with unparalleled access to championship golf, private club
-                facilities, and stunning mountain views. This exclusive community features luxury
+                facilities, and stunning mountain views. This community features luxury
                 homes designed for golf enthusiasts and luxury lifestyle seekers who value exclusive
                 access and premium amenities.
               </p>
@@ -480,7 +480,7 @@ export default function RedRockCountryClubPage() {
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Red Rock Country Club offers luxury homebuyers exceptional value through
                 championship golf access, private club facilities, strong appreciation, and
-                exclusive community environment. The community's median price of $2.1 million
+                community environment. The community's median price of $2.1 million
                 represents excellent value for golf course luxury living, while providing access to
                 world-class amenities and lifestyle options.
               </p>

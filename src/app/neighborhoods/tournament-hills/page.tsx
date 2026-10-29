@@ -66,8 +66,8 @@ export default function TournamentHillsPage() {
       icon: '🏔️',
     },
     {
-      feature: 'Family-Friendly',
-      description: 'Safe, quiet community perfect for families with children',
+      feature: 'Parks & Recreation',
+      description: 'Quiet community with parks and larger floor plans',
       icon: '👨‍👩‍👧‍👦',
     },
     {
@@ -224,7 +224,7 @@ export default function TournamentHillsPage() {
               Tournament Hills Market Analysis
             </h2>
             <p className="text-xl text-neutral-600">
-              Current market insights and trends for this exclusive community
+              Current market insights and trends for this community
             </p>
           </motion.div>
 
@@ -323,7 +323,7 @@ export default function TournamentHillsPage() {
               Recent Sales in Tournament Hills
             </h2>
             <p className="text-xl text-neutral-600">
-              See what homes are selling for in this exclusive community
+              See what homes are selling for in this community
             </p>
           </motion.div>
 
@@ -430,11 +430,11 @@ export default function TournamentHillsPage() {
                 Tournament Hills offers luxury living in Summerlin with access to championship golf,
                 mountain views, and exclusive amenities. This premier community features luxury
                 homes designed for golf enthusiasts and luxury lifestyle seekers who value exclusive
-                access, premium amenities, and family-friendly environment.
+                access, premium amenities, and parks and community amenities.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 The community's location in Summerlin provides residents with access to world-class
-                amenities including shopping centers, restaurants, parks, and excellent schools.
+                amenities including shopping centers, restaurants, parks, and nearby public schools.
                 Tournament Hills' gated security and private club facilities create an exclusive
                 environment that appeals to luxury homebuyers seeking both lifestyle and investment
                 value.
@@ -447,7 +447,7 @@ export default function TournamentHillsPage() {
                 construction, modern designs, and access to golf course and community amenities.
                 Properties typically include 3,000 to 6,000 square feet of living space, private
                 yards, and modern finishes. The community's luxury homes appeal to families and
-                professionals seeking luxury living with family-oriented amenities.
+                professionals seeking luxury living with amenities.
               </p>
             </div>
 
@@ -457,7 +457,7 @@ export default function TournamentHillsPage() {
               </h3>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 Tournament Hills offers luxury homebuyers exceptional value through golf course
-                access, family-friendly amenities, strong appreciation, and exclusive community
+                access, community amenities, strong appreciation, and guard-gated
                 environment. The community's median price of $1.6 million represents excellent value
                 for luxury golf course living, while providing access to comprehensive amenities and
                 lifestyle options.
@@ -505,12 +505,12 @@ export default function TournamentHillsPage() {
 
               <div>
                 <h4 className="text-xl font-bold text-primary-800 mb-4">
-                  Family-Friendly Luxury Amenities
+                  Luxury Amenities
                 </h4>
                 <p className="text-neutral-600 leading-relaxed mb-4">
-                  Tournament Hills features family-friendly amenities including parks, playgrounds,
+                  Tournament Hills features amenities including parks, playgrounds,
                   recreational facilities, and community events that support family life. The
-                  community's commitment to providing family-oriented amenities while maintaining
+                  community's commitment to providing amenities while maintaining
                   luxury standards creates an environment that appeals to luxury homebuyers with
                   children.
                 </p>

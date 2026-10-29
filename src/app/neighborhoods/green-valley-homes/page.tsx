@@ -38,7 +38,7 @@ export default function GreenValleyHomesPage() {
 
           <p className="text-xl sm:text-2xl text-slate-300 max-w-4xl mx-auto leading-relaxed">
             Discover established luxury living in Green Valley. Dr. Jan Duffy specializes in this
-            mature community with excellent schools, parks, and established amenities.
+            older community with nearby public schools, parks, and established amenities.
           </p>
 
           {/* CTA Buttons */}
@@ -93,7 +93,7 @@ export default function GreenValleyHomesPage() {
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-slate-900 mb-6">Green Valley Properties</h2>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto">
-              Established luxury homes with mature landscaping and excellent schools in Henderson
+              Established luxury homes with mature landscaping and public schools in Henderson
             </p>
           </div>
 
@@ -127,7 +127,7 @@ export default function GreenValleyHomesPage() {
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="bg-white rounded-lg p-8 shadow-lg text-center">
               <div className="text-6xl mb-4">🎓</div>
-              <h3 className="text-xl font-bold text-slate-800 mb-4">Top-Rated Schools</h3>
+              <h3 className="text-xl font-bold text-slate-800 mb-4">Nearby Public Schools</h3>
               <p className="text-slate-600">
                 A-rated public schools including Green Valley High School and elementary schools
               </p>
@@ -179,7 +179,7 @@ export default function GreenValleyHomesPage() {
                 <li>• 2,500-4,500+ sq ft</li>
                 <li>• 3-5 bedrooms</li>
                 <li>• Mature landscaping</li>
-                <li>• Established neighborhoods</li>
+                <li>• Older neighborhoods</li>
               </ul>
               <button
                 type="button"
@@ -247,9 +247,9 @@ export default function GreenValleyHomesPage() {
               </div>
               <ul className="space-y-2 text-slate-700 mb-6">
                 <li>• 2,000-3,500+ sq ft</li>
-                <li>• Family-friendly layouts</li>
+                <li>• Layouts</li>
                 <li>• Community amenities</li>
-                <li>• Excellent schools</li>
+                <li>• Nearby public schools</li>
               </ul>
               <button
                 type="button"
@@ -294,9 +294,9 @@ export default function GreenValleyHomesPage() {
                   </p>
                 </div>
                 <div className="bg-white rounded-lg p-6 shadow-md">
-                  <h4 className="font-semibold text-slate-800 mb-2">Established Community</h4>
+                  <h4 className="font-semibold text-slate-800 mb-2">Community</h4>
                   <p className="text-slate-600">
-                    Mature neighborhood with proven value appreciation over time
+                    Older neighborhood with proven value appreciation over time
                   </p>
                 </div>
                 <div className="bg-white rounded-lg p-6 shadow-md">
@@ -320,7 +320,7 @@ export default function GreenValleyHomesPage() {
                 <div className="bg-white rounded-lg p-6 shadow-md">
                   <h4 className="font-semibold text-slate-800 mb-2">School District</h4>
                   <p className="text-slate-600">
-                    Top-rated schools maintain strong demand and property values
+                    Nearby public schools maintain strong demand and property values
                   </p>
                 </div>
                 <div className="bg-white rounded-lg p-6 shadow-md">
@@ -436,7 +436,7 @@ export default function GreenValleyHomesPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Green Valley in Henderson offers established luxury living with mature
-                neighborhoods, excellent schools, and well-maintained properties. This established
+                neighborhoods, nearby public schools, and well-maintained properties. This established
                 community features mature trees, well-maintained landscaping, and quality
                 construction that has stood the test of time. The community's established nature
                 creates a sense of permanence and stability that appeals to luxury homebuyers.
@@ -444,16 +444,16 @@ export default function GreenValleyHomesPage() {
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 The community's location in Henderson provides residents with a quieter, more
                 residential feel while maintaining easy access to Las Vegas amenities. Green
-                Valley's established infrastructure, excellent schools, and strong community
+                Valley's established infrastructure, nearby public schools, and strong community
                 character make it attractive to families and professionals seeking luxury living in
-                a mature, well-established community.
+                a mature, older community.
               </p>
               <h3 className="text-2xl font-bold text-slate-800 mb-6 mt-8">
                 Luxury Homes in Green Valley
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed">
                 Green Valley homes range from $500,000 to over $2 million, featuring quality
-                construction, mature landscaping, and established neighborhoods. Properties
+                construction, mature landscaping, and older neighborhoods. Properties
                 typically include 2,000 to 5,000 square feet of living space, private yards with
                 mature trees, and well-maintained exteriors. The community's established nature
                 provides luxury living at accessible price points.
@@ -464,7 +464,7 @@ export default function GreenValleyHomesPage() {
               <h3 className="text-2xl font-bold text-slate-800 mb-6">Why Choose Green Valley</h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Green Valley offers luxury homebuyers exceptional value through established
-                neighborhoods, excellent schools, strong appreciation, and mature community
+                neighborhoods, nearby public schools, strong appreciation, and older community
                 character. The community's median price of $750,000 represents excellent value for
                 luxury living, while providing access to established amenities and infrastructure.
               </p>
@@ -479,7 +479,7 @@ export default function GreenValleyHomesPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed">
                 Dr. Jan Duffy specializes in Green Valley real estate, with extensive knowledge of
-                the community's established neighborhoods, market conditions, and buyer preferences.
+                the community's older neighborhoods, market conditions, and buyer preferences.
                 Her expertise in Henderson luxury communities enables her to help buyers find
                 properties that match their lifestyle and investment goals in this established
                 luxury community.
@@ -494,10 +494,10 @@ export default function GreenValleyHomesPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <h4 className="text-xl font-bold text-slate-800 mb-4">
-                  Established Neighborhoods and Mature Landscaping
+                  Older Neighborhoods and Mature Landscaping
                 </h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Green Valley's established neighborhoods feature mature trees, well-maintained
+                  Green Valley's older neighborhoods feature mature trees, well-maintained
                   landscaping, and quality construction that has proven its value over time. The
                   community's mature character creates a sense of permanence and stability that
                   appeals to luxury homebuyers seeking established luxury living.
@@ -512,20 +512,20 @@ export default function GreenValleyHomesPage() {
 
               <div>
                 <h4 className="text-xl font-bold text-slate-800 mb-4">
-                  Excellent Schools and Family-Friendly Environment
+                  Nearby Schools and Parks
                 </h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Green Valley features excellent schools that are consistently ranked among
-                  Nevada's best. The community's family-friendly environment, safe neighborhoods,
-                  and established amenities make it ideal for families seeking luxury living with
-                  family-oriented amenities. This combination appeals to luxury homebuyers with
+                  Green Valley features nearby public schools that are consistently ranked among
+                  Nevada's best. The community's environment, neighborhoods,
+                  and established amenities make it ideal for buyers seeking luxury living with
+                  amenities. This combination appeals to luxury homebuyers with
                   children or those planning families.
                 </p>
                 <p className="text-slate-600 leading-relaxed">
                   The community's commitment to education and family services ensures residents have
-                  access to resources that support family life. This family-friendly focus combined
+                  access to parks, schools, and community centers. This amenity focus combined
                   with luxury amenities creates an environment that appeals to luxury homebuyers
-                  seeking both lifestyle and family support in an established community.
+                  seeking both lifestyle and nearby support in a older community.
                 </p>
               </div>
             </div>

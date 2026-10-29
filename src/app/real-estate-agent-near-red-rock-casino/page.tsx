@@ -298,7 +298,7 @@ export default function RealEstateAgentNearRedRockCasinoPage() {
                 The area surrounding Red Rock Casino features some of Las Vegas's most prestigious
                 luxury communities including Red Rock Country Club, The Ridges Summerlin, and
                 Summerlin West. This premier location provides residents with access to world-class
-                amenities, excellent schools, and exceptional quality of life while maintaining
+                amenities, nearby public schools, and exceptional quality of life while maintaining
                 proximity to Red Rock Casino and entertainment.
               </p>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">

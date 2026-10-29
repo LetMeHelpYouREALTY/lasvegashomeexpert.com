@@ -244,7 +244,7 @@ export default function LuxuryHomesForSalePage() {
               <ul className="space-y-2 text-slate-700 mb-6">
                 <li>• Affordable luxury</li>
                 <li>• Golf course access</li>
-                <li>• Family-friendly</li>
+                <li>• Parks nearby</li>
                 <li>• 8% price appreciation YoY</li>
               </ul>
               <button
@@ -366,7 +366,7 @@ export default function LuxuryHomesForSalePage() {
             <div className="text-center">
               <div className="text-6xl mb-4">🏰</div>
               <h3 className="text-xl font-bold text-slate-800 mb-2">Gated Communities</h3>
-              <p className="text-slate-600">24/7 security and exclusive neighborhood access</p>
+              <p className="text-slate-600">24/7 security and luxury neighborhood access</p>
             </div>
 
             <div className="text-center">
@@ -536,7 +536,7 @@ export default function LuxuryHomesForSalePage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 The Ridges Summerlin represents the pinnacle of luxury living in Las Vegas, with
-                homes commanding a median price of $2.5 million. This exclusive community features
+                homes commanding a median price of $2.5 million. This community features
                 ultra-luxury estates positioned on elevated sites offering panoramic views of the
                 Las Vegas Strip, surrounding mountains, and the valley below.
               </p>
@@ -577,7 +577,7 @@ export default function LuxuryHomesForSalePage() {
                 <p className="text-slate-600 leading-relaxed mb-4">
                   The location of your luxury home significantly impacts both lifestyle and
                   investment value. Master-planned communities like Summerlin and Henderson offer
-                  world-class amenities, excellent schools, and strong community infrastructure.
+                  world-class amenities, nearby public schools, and strong community infrastructure.
                   Consider proximity to golf courses, shopping, dining, and entertainment when
                   selecting your luxury home location.
                 </p>
