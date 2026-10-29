@@ -112,13 +112,6 @@ export default function HomePage() {
             priceRange: '$1,000,000+',
             foundingDate: '2013',
             numberOfEmployees: '1',
-            aggregateRating: {
-              '@type': 'AggregateRating',
-              ratingValue: '4.9',
-              reviewCount: '127',
-              bestRating: '5',
-              worstRating: '1',
-            },
             review: [
               {
                 '@type': 'Review',
@@ -271,20 +264,14 @@ export default function HomePage() {
           </h2>
 
           {/* Review Aggregation Data */}
-          <div itemScope itemType="https://schema.org/AggregateRating" className="mb-12">
+          <div className="mb-12">
             <div className="bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-lg p-8 max-w-2xl mx-auto">
               <div className="text-6xl font-bold mb-2">
-                <span itemProp="ratingValue">4.9</span>/5
+                5.0/5
               </div>
               <div className="text-xl mb-2">stars from</div>
               <div className="text-3xl font-semibold">
-                <span itemProp="reviewCount">127</span> clients
-              </div>
-              <div itemProp="bestRating" className="hidden">
-                5
-              </div>
-              <div itemProp="worstRating" className="hidden">
-                1
+                50 Realtor.com reviews
               </div>
             </div>
           </div>
@@ -561,7 +548,7 @@ export default function HomePage() {
                 Dr. Jan Duffy has successfully closed over 500 luxury real estate transactions,
                 representing more than $180 million in total sales volume. Her consistent
                 performance has earned her recognition as a top 1% producer with Berkshire Hathaway
-                HomeServices Nevada Properties. With a 4.9-star rating from 127 verified client
+                HomeServices Nevada Properties. With a 5.0★ rating from 50 Realtor.com
                 reviews, Dr. Duffy's reputation for excellence speaks for itself.
               </p>
             </div>

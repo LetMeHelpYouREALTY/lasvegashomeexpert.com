@@ -18,12 +18,12 @@ export default function BestRealtorReviewsPage() {
           <div className="review-summary bg-white/10 backdrop-blur-sm rounded-lg p-8 border border-white/20 max-w-4xl mx-auto mb-12">
             <div className="grid grid-cols-1 md:grid-cols-4 gap-6">
               <div className="text-center">
-                <div className="text-5xl font-bold text-amber-400 mb-2">4.9</div>
-                <div className="text-white text-lg">Average Rating</div>
+                <div className="text-5xl font-bold text-amber-400 mb-2">5.0</div>
+                <div className="text-white text-lg">Realtor.com Rating</div>
               </div>
               <div className="text-center">
-                <div className="text-5xl font-bold text-amber-400 mb-2">127</div>
-                <div className="text-white text-lg">Total Reviews</div>
+                <div className="text-5xl font-bold text-amber-400 mb-2">50</div>
+                <div className="text-white text-lg">Realtor.com Reviews</div>
               </div>
               <div className="text-center">
                 <div className="text-5xl font-bold text-amber-400 mb-2">98%</div>
@@ -391,7 +391,7 @@ export default function BestRealtorReviewsPage() {
                 Exceptional Client Satisfaction and Reviews
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
-                Dr. Jan Duffy's 4.9-star rating from 127 verified client reviews demonstrates her
+                Dr. Jan Duffy's 5.0★ rating from 50 Realtor.com reviews demonstrates her
                 commitment to exceptional service and client satisfaction. With 98% of reviews being
                 5-star ratings, Dr. Duffy consistently exceeds client expectations while delivering
                 outstanding results. This exceptional rating reflects her expertise,
@@ -457,7 +457,7 @@ export default function BestRealtorReviewsPage() {
                 </h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
                   Dr. Duffy's commitment to exceptional service and results sets her apart from
-                  other realtors. Her 4.9-star rating and 98% 5-star reviews demonstrate consistent
+                  other realtors. Her 5.0★ rating from 50 Realtor.com reviews demonstrates consistent
                   excellence in service delivery. Clients consistently praise her professionalism,
                   market knowledge, and ability to achieve optimal outcomes.
                 </p>

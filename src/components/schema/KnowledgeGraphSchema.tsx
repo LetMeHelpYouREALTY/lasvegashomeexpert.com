@@ -73,13 +73,6 @@ const KnowledgeGraphSchema: FC<KnowledgeGraphSchemaProps> = ({ pageUrl, pageType
         award: ['5.0★ on Realtor.com', 'Luxury Home Specialist', 'Veteran Service Recognition'],
         foundingDate: '2013',
         priceRange: '$500K - $5M+',
-        aggregateRating: {
-          '@type': 'AggregateRating',
-          ratingValue: '4.9',
-          reviewCount: '127',
-          bestRating: '5',
-          worstRating: '1',
-        },
       },
       {
         '@type': 'Organization',

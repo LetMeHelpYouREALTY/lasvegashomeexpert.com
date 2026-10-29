@@ -43,7 +43,6 @@ const ProductSchema: FC<ProductSchemaProps> = ({
   condition = 'https://schema.org/NewCondition',
   brand = 'Dr. Jan Duffy Real Estate',
   category = 'Real Estate Services',
-  aggregateRating,
   reviews = [],
   offers = [],
 }) => {
@@ -78,15 +77,6 @@ const ProductSchema: FC<ProductSchemaProps> = ({
         },
       }),
     },
-    ...(aggregateRating && {
-      aggregateRating: {
-        '@type': 'AggregateRating',
-        ratingValue: aggregateRating.ratingValue,
-        reviewCount: aggregateRating.reviewCount,
-        bestRating: 5,
-        worstRating: 1,
-      },
-    }),
     ...(reviews.length > 0 && {
       review: reviews.map((review) => ({
         '@type': 'Review',

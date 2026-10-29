@@ -32,7 +32,6 @@ const RealEstateServiceSchema: FC<RealEstateServiceSchemaProps> = ({
   image,
   serviceType,
   areaServed,
-  aggregateRating,
   reviews = [],
   offers = [],
 }) => {
@@ -51,15 +50,6 @@ const RealEstateServiceSchema: FC<RealEstateServiceSchemaProps> = ({
       '@type': 'Brand',
       name: 'Dr. Jan Duffy Real Estate',
     },
-    ...(aggregateRating && {
-      aggregateRating: {
-        '@type': 'AggregateRating',
-        ratingValue: aggregateRating.ratingValue,
-        reviewCount: aggregateRating.reviewCount,
-        bestRating: 5,
-        worstRating: 1,
-      },
-    }),
     ...(reviews.length > 0 && {
       review: reviews.map((review) => ({
         '@type': 'Review',
