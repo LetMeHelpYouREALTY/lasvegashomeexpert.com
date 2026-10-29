@@ -197,7 +197,7 @@ export default function LuxuryRealtorPage() {
                 <div className="flex items-start gap-3">
                   <span className="text-2xl text-blue-600">🏆</span>
                   <div>
-                    <h4 className="font-semibold text-slate-800">Top 1% Producer</h4>
+                    <h4 className="font-semibold text-slate-800">5.0★ on Realtor.com</h4>
                     <p className="text-slate-600">
                       Consistently ranked among Berkshire Hathaway's top performers
                     </p>

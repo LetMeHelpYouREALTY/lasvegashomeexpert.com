@@ -77,7 +77,7 @@ export const luxuryCredentials: LuxuryCredential[] = [
   },
   {
     id: 'top-1-percent',
-    title: 'Top 1% Producer',
+    title: '5.0★ on Realtor.com',
     description: 'Consistently ranked in the top 1% of luxury real estate professionals',
     year: '2022-2024',
     category: 'achievement',

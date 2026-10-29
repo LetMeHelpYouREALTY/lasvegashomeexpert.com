@@ -304,8 +304,8 @@ export default function HomePage() {
               <p className="text-slate-600">Successful Transactions</p>
             </div>
             <div className="bg-slate-50 rounded-lg p-6">
-              <h3 className="text-3xl font-bold text-blue-600 mb-2">Top 1%</h3>
-              <p className="text-slate-600">Berkshire Hathaway Producer</p>
+              <h3 className="text-3xl font-bold text-blue-600 mb-2">5.0★</h3>
+              <p className="text-slate-600">Realtor.com (50 reviews)</p>
             </div>
           </div>
 

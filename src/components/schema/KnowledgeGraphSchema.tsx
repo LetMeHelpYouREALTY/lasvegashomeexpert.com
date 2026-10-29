@@ -70,7 +70,7 @@ const KnowledgeGraphSchema: FC<KnowledgeGraphSchemaProps> = ({ pageUrl, pageType
             },
           },
         ],
-        award: ['Top 1% Producer', 'Luxury Home Specialist', 'Veteran Service Recognition'],
+        award: ['5.0★ on Realtor.com', 'Luxury Home Specialist', 'Veteran Service Recognition'],
         foundingDate: '2013',
         priceRange: '$500K - $5M+',
         aggregateRating: {

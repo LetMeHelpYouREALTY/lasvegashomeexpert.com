@@ -36,7 +36,7 @@ export default function AboutDrJanDuffyPage() {
       year: '2009-2024',
     },
     {
-      achievement: 'Top 1% Producer',
+      achievement: '5.0★ on Realtor.com',
       description: 'Consistently ranked in the top 1% of real estate agents',
       icon: '🏆',
       year: '2024',
@@ -145,7 +145,7 @@ export default function AboutDrJanDuffyPage() {
             <div className="mb-6">
               <div className="inline-flex items-center space-x-2 bg-white/20 backdrop-blur-sm rounded-full px-6 py-3 mb-4">
                 <span className="text-2xl">🏆</span>
-                <span className="font-semibold">Top 1% Producer</span>
+                <span className="font-semibold">5.0★ on Realtor.com</span>
                 <span className="text-primary-200">|</span>
                 <span className="font-semibold">500+ Families Helped</span>
                 <span className="text-primary-200">|</span>
@@ -173,7 +173,7 @@ export default function AboutDrJanDuffyPage() {
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-accent-success">✓</span>
-                  <span>Top 1% Producer</span>
+                  <span>5.0★ on Realtor.com</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-accent-success">✓</span>

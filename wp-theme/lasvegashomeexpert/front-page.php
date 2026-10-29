@@ -133,8 +133,8 @@ get_header();
                     <p class="text-slate-600">Successful Transactions</p>
                 </div>
                 <div class="bg-slate-50 rounded-lg p-6">
-                    <h3 class="text-3xl font-bold text-blue-600 mb-2">Top 1%</h3>
-                    <p class="text-slate-600">Berkshire Hathaway Producer</p>
+                    <h3 class="text-3xl font-bold text-blue-600 mb-2">5.0★</h3>
+                    <p class="text-slate-600">Realtor.com (50 reviews)</p>
                 </div>
             </div>
 

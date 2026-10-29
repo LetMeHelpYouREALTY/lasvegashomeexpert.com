@@ -298,7 +298,7 @@ export default function BestRealtorReviewsPage() {
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center">
               <div className="text-6xl mb-6">🏆</div>
-              <h3 className="text-2xl font-bold text-slate-800 mb-4">Top 1% Producer</h3>
+              <h3 className="text-2xl font-bold text-slate-800 mb-4">5.0★ on Realtor.com</h3>
               <p className="text-slate-600">
                 Consistently ranked among Berkshire Hathaway's top performers with $180M+ in luxury
                 sales
