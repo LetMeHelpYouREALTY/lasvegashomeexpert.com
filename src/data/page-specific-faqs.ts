@@ -20,7 +20,7 @@ export const homePageFAQs: FAQItem[] = [
   {
     question: 'How do I contact the Las Vegas home expert?',
     answer:
-      "You can contact Dr. Jan Duffy, Las Vegas home expert, by calling (702) 222-1964, emailing DrJanSells@LasVegasHomeExpert.com, or visiting our office at 1700 S Pavilion Center Drive, Suite 140, Las Vegas, NV 89135. I'm available for consultations, property tours, and real estate advice.",
+      "You can contact Dr. Jan Duffy, Las Vegas home expert, by calling (702) 500-1955, emailing DrJanSells@LasVegasHomeExpert.com, or visiting our office at 1700 S Pavilion Center Drive, Suite 140, Las Vegas, NV 89135. I'm available for consultations, property tours, and real estate advice.",
   },
   {
     question: 'What services does the Las Vegas home expert provide?',

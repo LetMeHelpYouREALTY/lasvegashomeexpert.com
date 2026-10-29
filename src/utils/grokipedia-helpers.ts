@@ -144,7 +144,7 @@ export const DEFAULT_ORGANIZATION = {
   name: 'Dr. Jan Duffy',
   alternateName: ['Dr. Jan Duffy Real Estate', 'Las Vegas Home Expert'],
   url: 'https://lasvegashomeexpert.com',
-  telephone: '702-222-1964',
+  telephone: '702-500-1955',
   email: 'DrJanSells@LasVegasHomeExpert.com',
   address: {
     '@type': 'PostalAddress',

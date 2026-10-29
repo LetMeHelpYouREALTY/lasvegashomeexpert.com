@@ -26,7 +26,7 @@ const OrganizationSchema: FC<OrganizationSchemaProps> = ({
   logo = 'https://lasvegashomeexpert.com/logo.png',
   description = 'Las Vegas luxury real estate specialist providing expert services for buying, selling, and investing in luxury properties throughout the Las Vegas Valley.',
   contactPoint = {
-    telephone: '702-222-1964',
+    telephone: '702-500-1955',
     email: 'DrJanSells@LasVegasHomeExpert.com',
     contactType: 'Customer Service',
   },
