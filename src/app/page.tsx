@@ -164,8 +164,8 @@ export default function HomePage() {
       {/* Hero Section */}
       <HeroSection />
       <FeaturedListing
-        phone="(702) 842-0410"
-        phoneHref="tel:+17028420410"
+        phone="(702) 500-1955"
+        phoneHref="tel:+17025001955"
         siteHost="lasvegashomeexpert.com"
       />
 

@@ -41,7 +41,7 @@ export default function FeaturedListingPage() {
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: jsonLd }} />
-      <FeaturedListingPageBody phone="(702) 842-0410" phoneHref="tel:+17028420410" siteHost="lasvegashomeexpert.com" />
+      <FeaturedListingPageBody phone="(702) 500-1955" phoneHref="tel:+17025001955" siteHost="lasvegashomeexpert.com" />
     </>
   );
 }
