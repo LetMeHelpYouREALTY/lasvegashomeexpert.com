@@ -78,8 +78,8 @@ export default function SouthernHighlandsPage() {
       icon: '⛳',
     },
     {
-      feature: 'Family-Oriented',
-      description: 'Safe, quiet community perfect for families with excellent schools',
+      feature: 'Parks & Recreation',
+      description: 'Quiet community with nearby schools',
       icon: '👨‍👩‍👧‍👦',
     },
     {
@@ -107,7 +107,7 @@ export default function SouthernHighlandsPage() {
     },
     {
       category: 'Education',
-      features: 'Top-rated schools, private academies, higher education nearby',
+      features: 'Nearby public schools, private academies, higher education nearby',
       icon: '🎓',
     },
   ];
@@ -260,7 +260,7 @@ export default function SouthernHighlandsPage() {
               Southern Highlands Market Analysis
             </h2>
             <p className="text-xl text-neutral-600">
-              Current market insights and trends for this exclusive community
+              Current market insights and trends for this community
             </p>
           </motion.div>
 
@@ -394,7 +394,7 @@ export default function SouthernHighlandsPage() {
               Recent Sales in Southern Highlands
             </h2>
             <p className="text-xl text-neutral-600">
-              See what homes are selling for in this exclusive community
+              See what homes are selling for in this community
             </p>
           </motion.div>
 
@@ -495,14 +495,14 @@ export default function SouthernHighlandsPage() {
           <div className="grid md:grid-cols-2 gap-12 mb-12">
             <div>
               <h3 className="text-2xl font-bold text-primary-900 mb-6">
-                Southern Highlands: Family-Friendly Luxury Community
+                Southern Highlands: Luxury Community
               </h3>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
-                Southern Highlands offers luxury living in a family-friendly environment, with homes
-                averaging $850,000 and featuring access to excellent schools, parks, and community
+                Southern Highlands offers luxury living in an environment, with homes
+                averaging $850,000 and featuring access to public schools, parks, and community
                 amenities. This master-planned community provides luxury lifestyle options at more
                 accessible price points, making it attractive to families seeking luxury living with
-                family-oriented amenities.
+                amenities.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 The community's location in southwest Las Vegas provides residents with easy access
@@ -528,7 +528,7 @@ export default function SouthernHighlandsPage() {
               </h3>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 Southern Highlands offers luxury homebuyers exceptional value through master-planned
-                community amenities, excellent schools, strong appreciation, and family-friendly
+                community amenities, nearby schools, strong appreciation, and
                 environment. The community's median price of $850,000 represents excellent value for
                 luxury living, while providing access to comprehensive amenities and lifestyle
                 options.
@@ -546,7 +546,7 @@ export default function SouthernHighlandsPage() {
                 Dr. Jan Duffy specializes in Southern Highlands real estate, with extensive
                 knowledge of the community's properties, market conditions, and buyer preferences.
                 Her expertise in master-planned communities enables her to help buyers find
-                properties that match their lifestyle and investment goals in this family-friendly
+                properties that match their lifestyle and investment goals in this
                 luxury community.
               </p>
             </div>
@@ -559,12 +559,12 @@ export default function SouthernHighlandsPage() {
             <div className="grid md:grid-cols-2 gap-8">
               <div>
                 <h4 className="text-xl font-bold text-primary-800 mb-4">
-                  Family-Friendly Luxury Living
+                  Luxury Living
                 </h4>
                 <p className="text-neutral-600 leading-relaxed mb-4">
-                  Southern Highlands combines luxury living with family-friendly amenities, creating
+                  Southern Highlands combines luxury living with amenities, creating
                   an environment that appeals to families seeking luxury lifestyle options. The
-                  community's excellent schools, parks, and recreational facilities support family
+                  community's nearby public schools, parks, and recreational facilities support family
                   life while providing luxury amenities that enhance quality of life.
                 </p>
                 <p className="text-neutral-600 leading-relaxed">

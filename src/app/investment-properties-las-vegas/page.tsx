@@ -93,14 +93,14 @@ export default function InvestmentPropertiesPage() {
       avgCapRate: '7.1%',
       appreciation: '+13.2%',
       rentalDemand: 'Very High',
-      features: 'Family-friendly, great schools, growing population',
+      features: 'Nearby public schools, growing population',
     },
     {
       name: 'Green Valley',
       avgCapRate: '6.9%',
       appreciation: '+11.8%',
       rentalDemand: 'High',
-      features: 'Established community, stable tenants, amenities',
+      features: 'Community, stable tenants, amenities',
     },
     {
       name: 'Summerlin',
@@ -551,7 +551,7 @@ export default function InvestmentPropertiesPage() {
                 <h4 className="text-xl font-bold text-primary-800 mb-4">Location Selection</h4>
                 <p className="text-neutral-600 leading-relaxed mb-4">
                   Location is critical for investment property success. Areas with strong rental
-                  demand, good schools, employment growth, and infrastructure development tend to
+                  demand, nearby public schools, employment growth, and infrastructure development tend to
                   perform better. Neighborhoods like Henderson, Green Valley, and Summerlin offer
                   strong fundamentals that support both rental income and appreciation.
                 </p>

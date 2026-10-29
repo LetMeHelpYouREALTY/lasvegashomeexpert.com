@@ -512,7 +512,7 @@ export default function BuyingGuidePage() {
                 Las Vegas offers homebuyers numerous advantages that make it an excellent place to
                 purchase property. The city's master-planned communities like Summerlin, Henderson,
                 and Green Valley provide exceptional amenities including parks, recreation
-                facilities, excellent schools, and shopping centers. These communities offer a high
+                facilities, nearby public schools, and shopping centers. These communities offer a high
                 quality of life with strong property values and appreciation potential.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed">
@@ -532,13 +532,13 @@ export default function BuyingGuidePage() {
                 Selecting the right neighborhood is crucial when buying a home in Las Vegas. Each
                 area offers unique characteristics, amenities, and lifestyle options. Summerlin,
                 located on the west side of Las Vegas, features master-planned communities with golf
-                courses, parks, and excellent schools. The area appeals to families and
+                courses, parks, and nearby public schools. The area appeals to families and
                 professionals seeking a suburban lifestyle with easy access to the city.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 Henderson, located southeast of Las Vegas, offers a more residential feel with
-                strong community infrastructure, excellent schools, and diverse housing options.
-                Green Valley in Henderson provides established neighborhoods with mature trees and
+                strong community infrastructure, nearby public schools, and diverse housing options.
+                Green Valley in Henderson provides older neighborhoods with mature trees and
                 well-maintained properties. North Las Vegas offers more affordable options with new
                 construction and growing communities.
               </p>

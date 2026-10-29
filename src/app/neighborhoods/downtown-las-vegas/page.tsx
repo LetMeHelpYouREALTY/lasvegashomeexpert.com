@@ -447,7 +447,7 @@ export default function DowntownLasVegasPage() {
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 The area's ongoing revitalization has created new luxury residential developments
                 with modern amenities, contemporary designs, and access to downtown's vibrant
-                culture. Downtown Las Vegas' urban living appeals to professionals, empty nesters,
+                culture. Downtown Las Vegas' urban living appeals to professionals, downsizers,
                 and investors seeking luxury living in the heart of Las Vegas.
               </p>
               <h3 className="text-2xl font-bold text-slate-800 mb-6 mt-8">

@@ -245,7 +245,7 @@ const injectEnhancedStructuredData = () => {
       {
         '@type': 'Place',
         name: 'MacDonald Highlands',
-        description: 'Family-friendly luxury community with golf views',
+        description: 'Luxury community with golf views',
       },
     ],
     knowsAbout: [

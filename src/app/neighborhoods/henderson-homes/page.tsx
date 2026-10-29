@@ -144,7 +144,7 @@ export default function HendersonHomesPage() {
                   </p>
                 </div>
                 <div className="bg-white rounded-lg p-6 shadow-md">
-                  <h4 className="font-semibold text-slate-800 mb-2">Exclusive Community</h4>
+                  <h4 className="font-semibold text-slate-800 mb-2">Community</h4>
                   <p className="text-slate-600">
                     Gated security with only 1,200 homesites ensuring privacy
                   </p>
@@ -296,7 +296,7 @@ export default function HendersonHomesPage() {
                 <li>• Master-planned community</li>
                 <li>• 3,000-6,000+ sq ft</li>
                 <li>• Country club access</li>
-                <li>• Family-friendly</li>
+                <li>• Parks nearby</li>
               </ul>
               <button
                 type="button"
@@ -328,10 +328,10 @@ export default function HendersonHomesPage() {
                 <div className="text-3xl font-bold text-green-600 mb-2">$700K - $1.8M</div>
               </div>
               <ul className="space-y-2 text-slate-700 mb-6">
-                <li>• Established community</li>
+                <li>• Community</li>
                 <li>• 2,500-5,000+ sq ft</li>
                 <li>• Mature landscaping</li>
-                <li>• Excellent schools</li>
+                <li>• Nearby public schools</li>
               </ul>
               <button
                 type="button"
@@ -408,7 +408,7 @@ export default function HendersonHomesPage() {
                 <div className="bg-white rounded-lg p-6 shadow-md">
                   <h4 className="font-semibold text-slate-800 mb-2">Family Appeal</h4>
                   <p className="text-slate-600">
-                    Excellent schools and amenities attract high-income families
+                    Nearby public schools and amenities attract high-income families
                   </p>
                 </div>
               </div>
@@ -519,8 +519,8 @@ export default function HendersonHomesPage() {
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Henderson offers luxury living with a quieter, more residential feel while
                 maintaining easy access to Las Vegas amenities. This established city features
-                master-planned communities, excellent schools, and strong community infrastructure
-                that appeals to luxury homebuyers seeking quality living with family-oriented
+                master-planned communities, nearby public schools, and strong community infrastructure
+                that appeals to luxury homebuyers seeking quality living with master-planned
                 amenities.
               </p>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
@@ -549,7 +549,7 @@ export default function HendersonHomesPage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
                 Henderson offers luxury homebuyers exceptional value through established
-                neighborhoods, excellent schools, strong appreciation, and family-friendly
+                neighborhoods, nearby schools, strong appreciation, and community
                 environment. The city's median home price of $1.6 million represents excellent value
                 for luxury living, while providing access to comprehensive amenities and lifestyle
                 options.
@@ -587,7 +587,7 @@ export default function HendersonHomesPage() {
                 </p>
                 <p className="text-slate-600 leading-relaxed">
                   The city's commitment to master-planned development ensures residents enjoy
-                  comprehensive amenities, excellent schools, and strong community infrastructure.
+                  comprehensive amenities, nearby public schools, and strong community infrastructure.
                   This commitment to quality development creates exceptional value for luxury
                   homebuyers seeking both lifestyle and investment value.
                 </p>
@@ -595,18 +595,18 @@ export default function HendersonHomesPage() {
 
               <div>
                 <h4 className="text-xl font-bold text-slate-800 mb-4">
-                  Excellent Schools and Family-Friendly Environment
+                  Nearby Schools and Parks
                 </h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Henderson features excellent schools that are consistently ranked among Nevada's
-                  best. The city's family-friendly environment, safe neighborhoods, and
-                  comprehensive amenities make it ideal for families seeking luxury living with
-                  family-oriented amenities. This combination appeals to luxury homebuyers with
+                  Henderson features nearby public schools that are consistently ranked among Nevada's
+                  best. The city's environment, neighborhoods, and
+                  comprehensive amenities make it a strong choice for buyers seeking luxury living with
+                  amenities. This combination appeals to luxury homebuyers with
                   children or those planning families.
                 </p>
                 <p className="text-slate-600 leading-relaxed">
                   The city's commitment to education and family services ensures residents have
-                  access to resources that support family life. This family-friendly focus combined
+                  access to parks, schools, and community centers. This amenity focus combined
                   with luxury amenities creates an environment that appeals to luxury homebuyers
                   seeking both lifestyle and family support.
                 </p>
