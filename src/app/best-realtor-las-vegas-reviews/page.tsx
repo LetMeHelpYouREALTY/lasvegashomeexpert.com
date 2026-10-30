@@ -300,8 +300,7 @@ export default function BestRealtorReviewsPage() {
               <div className="text-6xl mb-6">🏆</div>
               <h3 className="text-2xl font-bold text-slate-800 mb-4">5.0★ on Realtor.com</h3>
               <p className="text-slate-600">
-                Consistently ranked among Berkshire Hathaway's top performers with $180M+ in luxury
-                sales
+                50 reviews · $127M+ in sales
               </p>
             </div>
 
@@ -408,10 +407,7 @@ export default function BestRealtorReviewsPage() {
                 Proven Track Record of Excellence
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed">
-                Dr. Duffy's 15+ years of experience and 500+ successful transactions demonstrate her
-                ability to deliver consistent results. Her recognition as a top 1% producer with
-                Berkshire Hathaway HomeServices Nevada Properties reflects her exceptional
-                performance and commitment to excellence. This track record of success provides
+                Dr. Duffy's experience (licensed since 2008 · 35 years in Las Vegas) and 500+ successful transactions demonstrate her ability to deliver consistent results. This track record of success provides
                 confidence to clients seeking the best realtor in Las Vegas.
               </p>
             </div>

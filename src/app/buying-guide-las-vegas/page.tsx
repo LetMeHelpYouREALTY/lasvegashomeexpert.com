@@ -178,7 +178,7 @@ export default function BuyingGuidePage() {
                 <span className="text-primary-200">|</span>
                 <span className="font-semibold">500+ Buyers Helped</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 
@@ -547,8 +547,7 @@ export default function BuyingGuidePage() {
               </h3>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 Working with an experienced Las Vegas real estate agent like Dr. Jan Duffy provides
-                significant advantages when buying a home. Her 15+ years of experience in the Las
-                Vegas market, combined with expertise in local neighborhoods, market conditions, and
+                significant advantages when buying a home. Her experience (licensed since 2008 · 35 years in Las Vegas), combined with expertise in local neighborhoods, market conditions, and
                 transaction management, ensures homebuyers receive expert guidance throughout the
                 entire process.
               </p>

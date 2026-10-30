@@ -588,7 +588,7 @@ export default function ContactPage() {
                 Dr. Jan Duffy makes it easy to get in touch and start your real estate journey.
                 Whether you're buying your first home, selling a luxury property, or investing in
                 Las Vegas real estate, Dr. Duffy provides personalized service tailored to your
-                needs. Her 15+ years of experience and 500+ successful transactions demonstrate her
+                needs. Her experience (licensed since 2008 · 35 years in Las Vegas) and 500+ successful transactions demonstrate her
                 ability to deliver exceptional results.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">

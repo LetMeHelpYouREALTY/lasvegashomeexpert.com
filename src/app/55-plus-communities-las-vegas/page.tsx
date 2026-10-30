@@ -108,7 +108,7 @@ export default function FiftyFivePlusCommunitiesPage() {
                 <span className="text-primary-200">|</span>
                 <span className="font-semibold">200+ Active Adult Buyers Helped</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 

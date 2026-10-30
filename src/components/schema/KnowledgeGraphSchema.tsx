@@ -16,7 +16,7 @@ const KnowledgeGraphSchema: FC<KnowledgeGraphSchemaProps> = ({ pageUrl, pageType
         name: 'Dr. Jan Duffy',
         alternateName: ['Dr. Jan Duffy Real Estate', 'Las Vegas Home Expert'],
         description:
-          'Las Vegas luxury real estate specialist with 10+ years of experience, specializing in luxury homes, divorce real estate, and veteran services throughout the Las Vegas Valley.',
+          'Las Vegas luxury real estate specialist, licensed since 2008 · 35 years in Las Vegas, specializing in luxury homes, divorce real estate, and veteran services throughout the Las Vegas Valley.',
         url: 'https://lasvegashomeexpert.com',
         telephone: '702-500-1955',
         email: 'DrJanSells@LasVegasHomeExpert.com',

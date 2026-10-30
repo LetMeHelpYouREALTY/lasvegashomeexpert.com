@@ -348,7 +348,7 @@ export default function SummerlinHomesPage() {
               <div className="text-6xl mb-6">🎯</div>
               <h3 className="text-2xl font-bold text-slate-800 mb-4">Local Expert</h3>
               <p className="text-slate-600">
-                15+ years of experience selling Summerlin properties with insider market knowledge
+                Licensed since 2008 · 35 years in Las Vegas, selling Summerlin properties with insider market knowledge
               </p>
             </div>
 

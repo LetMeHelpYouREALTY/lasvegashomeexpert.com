@@ -115,7 +115,7 @@ export default function FirstTimeHomeBuyerPage() {
                 <span className="text-primary-200">|</span>
                 <span className="font-semibold">500+ First-Time Buyers Helped</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 

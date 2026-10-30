@@ -116,7 +116,7 @@ Main brand colors are defined using Tailwind's color system:
 
 For theme support, contact:
 - **Email:** DrJanSells@LasVegasHomeExpert.com
-- **Phone:** (702) 222-1964
+- **Phone:** (702) 500-1955
 
 ## Changelog
 

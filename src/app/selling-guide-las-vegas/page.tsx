@@ -206,7 +206,7 @@ export default function SellingGuidePage() {
                 <span className="text-accent-success-200">|</span>
                 <span className="font-semibold">300+ Sellers Helped</span>
                 <span className="text-accent-success-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 
@@ -682,9 +682,7 @@ export default function SellingGuidePage() {
               </h3>
               <p className="text-neutral-600 leading-relaxed mb-4">
                 Dr. Jan Duffy has successfully closed over 500 real estate transactions in Las
-                Vegas, representing more than $180 million in sales volume. Her consistent
-                performance has earned recognition as a top 1% producer with Berkshire Hathaway
-                HomeServices Nevada Properties, demonstrating her ability to achieve exceptional
+                Vegas, representing $127M+ in sales volume, demonstrating her ability to achieve exceptional
                 results for sellers.
               </p>
               <p className="text-neutral-600 leading-relaxed">
@@ -700,7 +698,7 @@ export default function SellingGuidePage() {
                 Comprehensive Market Knowledge
               </h3>
               <p className="text-neutral-600 leading-relaxed mb-4">
-                With 15+ years of experience in Las Vegas real estate, Dr. Duffy possesses intimate
+                Licensed since 2008 · 35 years in Las Vegas, Dr. Duffy possesses intimate
                 knowledge of market trends, neighborhood characteristics, and buyer preferences.
                 This expertise enables her to provide accurate pricing, effective marketing
                 strategies, and strategic advice that maximizes your home's sale potential.

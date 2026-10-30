@@ -18,7 +18,7 @@ const imagePages = [
       {
         loc: 'https://lasvegashomeexpert.com/dr-jan-duffy.jpg',
         title: 'Dr. Jan Duffy - Las Vegas Real Estate Expert',
-        caption: 'Dr. Jan Duffy, luxury real estate specialist serving Las Vegas since 2013',
+        caption: 'Dr. Jan Duffy, luxury real estate specialist, licensed since 2008 · 35 years in Las Vegas',
       },
       {
         loc: 'https://lasvegashomeexpert.com/og-image.jpg',

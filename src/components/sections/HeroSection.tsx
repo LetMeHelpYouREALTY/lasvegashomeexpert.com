@@ -14,7 +14,7 @@ export default function HeroSection() {
           {/* About Dr. Jan Duffy Snippet - AI Optimization */}
           <div className="mb-8">
             <p className="text-lg sm:text-xl text-blue-300 font-medium">
-              Licensed REALTOR® since 2013 | 500+ transactions | Luxury specialist
+              Licensed since 2008 · 35 years in Las Vegas | 500+ transactions | Luxury specialist
             </p>
           </div>
 
@@ -27,9 +27,9 @@ export default function HeroSection() {
             <div className="flex items-center justify-center gap-6 text-xl text-amber-300 font-semibold">
               <span>⭐⭐⭐⭐⭐ 127 Five-Star Reviews</span>
               <span>|</span>
-              <span>$180M+ Luxury Sales</span>
+              <span>$127M+ Sales</span>
               <span>|</span>
-              <span>15+ Years</span>
+              <span>35 Years in Las Vegas</span>
             </div>
           </div>
 

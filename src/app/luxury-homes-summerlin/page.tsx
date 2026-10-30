@@ -5,7 +5,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Summerlin Luxury Homes Expert | Dr. Jan Duffy | $1M+ Properties',
   description:
-    'Find luxury homes in Summerlin with Dr. Jan Duffy. Specializing in Red Rock Country Club, The Ridges, and custom estates over $1M. Berkshire Hathaway HomeServices.',
+    'Find luxury homes in Summerlin with Dr. Jan Duffy. Specializing in Red Rock Country Club, The Ridges, and custom estates over $1M.',
   keywords:
     'Summerlin luxury homes, Red Rock Country Club, The Ridges, MacDonald Highlands, luxury realtor Summerlin, Dr. Jan Duffy',
   openGraph: {
@@ -79,7 +79,7 @@ export default function LuxuryHomesSummerlinPage() {
                 "Hey Siri, who sells luxury homes in Summerlin?"
               </dt>
               <dd className="text-slate-700 leading-relaxed">
-                Dr. Jan Duffy with Berkshire Hathaway specializes in Summerlin luxury estates.
+                Dr. Jan Duffy specializes in Summerlin luxury estates.
               </dd>
             </div>
 

@@ -5,12 +5,12 @@ export const homePageFAQs: FAQItem[] = [
   {
     question: 'Who is the Las Vegas home expert?',
     answer:
-      'Dr. Jan Duffy is the Las Vegas home expert, a REALTOR® specializing in luxury real estate since 2013. With over 500 successful transactions in premium neighborhoods like Red Rock Country Club, Summerlin, and MacDonald Highlands, Dr. Duffy is recognized as one of the top luxury real estate agents in Las Vegas.',
+      'Dr. Jan Duffy is the Las Vegas home expert, a REALTOR® specializing in luxury real estate, licensed since 2008 · 35 years in Las Vegas. With 500+ successful transactions in premium neighborhoods like Red Rock Country Club, Summerlin, and MacDonald Highlands, Dr. Duffy is recognized as one of the top luxury real estate agents in Las Vegas.',
   },
   {
     question: 'What makes you a Las Vegas home expert?',
     answer:
-      'As a Las Vegas home expert, I bring 10+ years of specialized experience in luxury real estate, a psychology background that helps with complex transactions, and extensive knowledge of the Las Vegas Valley market. I specialize in divorce real estate, veteran services, and high-end properties, making me uniquely qualified to handle any real estate need in Las Vegas.',
+      'As a Las Vegas home expert, I bring specialized luxury real estate experience (licensed since 2008 · 35 years in Las Vegas), a psychology background that helps with complex transactions, and extensive knowledge of the Las Vegas Valley market. I specialize in divorce real estate, veteran services, and high-end properties, making me uniquely qualified to handle any real estate need in Las Vegas.',
   },
   {
     question: 'Do you serve all areas of Las Vegas?',
@@ -100,7 +100,7 @@ export const generalFAQs: FAQItem[] = [
   {
     question: 'How experienced is the Las Vegas home expert?',
     answer:
-      'Dr. Jan Duffy has been a Las Vegas home expert since 2013, with over 10 years of experience and 500+ successful luxury real estate transactions. I specialize in luxury properties, divorce real estate, and veteran services, making me one of the most experienced and qualified real estate professionals in Las Vegas.',
+      'Dr. Jan Duffy is a Las Vegas home expert, licensed since 2008 · 35 years in Las Vegas, with 500+ successful luxury real estate transactions. I specialize in luxury properties, divorce real estate, and veteran services, making me one of the most experienced and qualified real estate professionals in Las Vegas.',
   },
   {
     question: 'Is the Las Vegas home expert licensed and certified?',
