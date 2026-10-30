@@ -539,8 +539,8 @@ export default function AboutDrJanDuffyPage() {
                 producer with Berkshire Hathaway HomeServices Nevada Properties.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
-                Her success is reflected in client satisfaction, with a 4.9-star rating from 127
-                verified client reviews. This reputation for excellence is built on delivering
+                Her success is reflected in client satisfaction, with a 5.0★ rating from 50 Realtor.com
+                reviews. This reputation for excellence is built on delivering
                 results while providing exceptional service. Clients consistently praise her
                 professionalism, market knowledge, negotiation skills, and personal attention to
                 their needs throughout the buying or selling process.
@@ -678,7 +678,7 @@ export default function AboutDrJanDuffyPage() {
               subsequent transactions because of the positive experience and results achieved.
             </p>
             <p className="text-lg text-neutral-600 leading-relaxed">
-              The 4.9-star rating from 127 verified reviews reflects the satisfaction of clients who
+              The 5.0★ rating from 50 Realtor.com reviews reflects the satisfaction of clients who
               have worked with Dr. Duffy. These reviews demonstrate her ability to exceed
               expectations while delivering results, whether helping buyers find their dream home or
               sellers achieve maximum value for their properties.
