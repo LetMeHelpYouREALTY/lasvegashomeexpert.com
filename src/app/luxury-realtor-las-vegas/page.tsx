@@ -17,7 +17,7 @@ export default function LuxuryRealtorPage() {
           {/* Credibility Stats */}
           <div className="credibility-stats grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto mb-12">
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
-              <div className="text-4xl font-bold text-amber-400 mb-2">$180M+</div>
+              <div className="text-4xl font-bold text-amber-400 mb-2">$127M+</div>
               <div className="text-white text-lg">Total Sales Volume</div>
             </div>
             <div className="bg-white/10 backdrop-blur-sm rounded-lg p-6 border border-white/20">
@@ -31,7 +31,7 @@ export default function LuxuryRealtorPage() {
           </div>
 
           <p className="text-xl sm:text-2xl text-slate-300 max-w-4xl mx-auto leading-relaxed">
-            Las Vegas luxury real estate expert with $180M+ in sales, specializing in Red Rock
+            Las Vegas luxury real estate expert with $127M+ in sales, specializing in Red Rock
             Country Club, The Ridges Summerlin, and MacDonald Highlands. Discover why discerning
             buyers choose Dr. Jan Duffy.
           </p>
@@ -199,7 +199,7 @@ export default function LuxuryRealtorPage() {
                   <div>
                     <h4 className="font-semibold text-slate-800">5.0★ on Realtor.com</h4>
                     <p className="text-slate-600">
-                      Consistently ranked among Berkshire Hathaway's top performers
+                      50 reviews
                     </p>
                   </div>
                 </div>
@@ -295,9 +295,7 @@ export default function LuxuryRealtorPage() {
                 Unmatched Expertise in Las Vegas Luxury Real Estate
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
-                Dr. Jan Duffy has established herself as Las Vegas's premier luxury realtor through
-                over 15 years of dedicated service and exceptional results. With more than $180
-                million in luxury sales volume and 500+ successful transactions, she has proven her
+                Dr. Jan Duffy has established herself as Las Vegas's premier luxury realtor through dedicated service and exceptional results: licensed since 2008 · 35 years in Las Vegas. With $127M+ in sales volume and 500+ successful transactions, she has proven her
                 ability to navigate the complexities of high-end real estate transactions while
                 delivering outstanding outcomes for clients.
               </p>
@@ -363,7 +361,7 @@ export default function LuxuryRealtorPage() {
               <div>
                 <h4 className="text-xl font-bold text-slate-800 mb-4">Deep Market Knowledge</h4>
                 <p className="text-slate-600 leading-relaxed mb-4">
-                  Dr. Duffy's 15+ years of experience in Las Vegas luxury real estate provides
+                  Dr. Duffy's experience (licensed since 2008 · 35 years in Las Vegas) provides
                   comprehensive understanding of market dynamics, property values, and neighborhood
                   characteristics. This expertise enables her to identify opportunities, assess
                   value accurately, and guide clients to properties that match their lifestyle and

@@ -38,7 +38,7 @@ const PROPERTY_DESCRIPTION_PROMPT = `You are a luxury real estate copywriter spe
 
 AGENT CONTEXT:
 - Name: Dr. Jan Duffy
-- Experience: Luxury real estate specialist since 2013
+- Experience: Luxury real estate specialist, licensed since 2008 · 35 years in Las Vegas
 - Market: Las Vegas, Summerlin, Henderson
 - Expertise: High-net-worth clients, luxury homes $1M-$5M+
 - Success: 200+ successful luxury transactions

@@ -144,9 +144,9 @@ export default function LuxuryHomeSellingAgentPage() {
                 <span className="text-2xl">🏆</span>
                 <span className="font-semibold">#1 Luxury Selling Agent</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">$180M+ in Sales</span>
+                <span className="font-semibold">$127M+ in Sales</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 
@@ -166,7 +166,7 @@ export default function LuxuryHomeSellingAgentPage() {
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-lg">
                 <div className="flex items-center space-x-3">
                   <span className="text-accent-success">✓</span>
-                  <span>$180M+ in Luxury Sales</span>
+                  <span>$127M+ in Sales</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <span className="text-accent-success">✓</span>
@@ -460,8 +460,7 @@ export default function LuxuryHomeSellingAgentPage() {
                 <p className="text-neutral-600 leading-relaxed mb-4">
                   Dr. Duffy's track record includes faster sales (18 days average vs. market
                   average) and higher prices (98.5% of list price vs. market average) through
-                  comprehensive marketing and strategic positioning. Her 15+ years of experience in
-                  Las Vegas luxury real estate provides comprehensive understanding of market
+                  comprehensive marketing and strategic positioning. Licensed since 2008 · 35 years in Las Vegas, her experience provides comprehensive understanding of market
                   conditions and buyer preferences.
                 </p>
                 <p className="text-neutral-600 leading-relaxed">

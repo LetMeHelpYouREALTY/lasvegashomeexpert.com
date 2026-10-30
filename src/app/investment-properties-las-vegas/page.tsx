@@ -177,7 +177,7 @@ export default function InvestmentPropertiesPage() {
                 <span className="text-primary-200">|</span>
                 <span className="font-semibold">$50M+ in Investment Sales</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 

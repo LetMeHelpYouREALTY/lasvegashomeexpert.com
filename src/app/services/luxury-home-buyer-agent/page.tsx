@@ -105,9 +105,9 @@ export default function LuxuryHomeBuyerAgentPage() {
                 <span className="text-2xl">👑</span>
                 <span className="font-semibold">Luxury Buyer Specialist</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">$180M+ in Sales</span>
+                <span className="font-semibold">$127M+ in Sales</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 
@@ -446,7 +446,7 @@ export default function LuxuryHomeBuyerAgentPage() {
                   Market Expertise and Network
                 </h4>
                 <p className="text-neutral-600 leading-relaxed mb-4">
-                  Dr. Duffy's 15+ years of experience in Las Vegas luxury real estate provides
+                  Dr. Duffy's experience (licensed since 2008 · 35 years in Las Vegas) provides
                   comprehensive understanding of market trends, property values, and buyer
                   preferences. Her extensive network includes access to off-market listings,
                   developers, and other professionals that provide advantages unavailable to buyers

@@ -658,8 +658,7 @@ export default function LuxuryHomesForSalePage() {
                 Comprehensive Market Knowledge
               </h3>
               <p className="text-slate-600 leading-relaxed mb-4">
-                With over 15 years of experience in Las Vegas luxury real estate, Dr. Duffy
-                possesses deep knowledge of market trends, property values, and neighborhood
+                Licensed since 2008 · 35 years in Las Vegas, Dr. Duffy possesses deep knowledge of market trends, property values, and neighborhood
                 characteristics. This expertise enables her to help clients make informed decisions
                 about their luxury home purchases.
               </p>

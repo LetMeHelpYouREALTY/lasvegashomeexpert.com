@@ -134,6 +134,8 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-primary-200 text-sm">
               © {currentYear} Las Vegas Home Expert. All rights reserved.
+              <br />
+              Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link

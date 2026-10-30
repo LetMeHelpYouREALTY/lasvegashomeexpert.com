@@ -30,8 +30,7 @@ export const luxuryServices: LuxuryService[] = [
       'Tournament Hills',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
-      '10+ Years Luxury Experience',
+      'Licensed since 2008 · 35 years in Las Vegas',
       'Veteran Service',
       '500+ Families Served',
     ],
@@ -64,7 +63,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Portfolio Management Expert',
       'Market Analysis Specialist',
       'Investment Strategy',
@@ -99,7 +97,6 @@ export const luxuryServices: LuxuryService[] = [
       'Tournament Hills',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Luxury Staging Specialist',
       'Design Excellence',
       'Market Value Maximization',
@@ -133,7 +130,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Wealth Management Expert',
       'Strategic Advisory',
       'Market Intelligence',
@@ -167,7 +163,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Privacy & Security Expert',
       'Celebrity Client Experience',
       'Discrete Service',
@@ -201,7 +196,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'International Real Estate Expert',
       'Visa & Immigration Knowledge',
       'Global Market Access',
@@ -235,7 +229,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Development Expert',
       'Market Analysis',
       'Investment Strategy',
@@ -269,7 +262,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Estate Management Expert',
       'Legal Coordination',
       'Family Liaison',
@@ -303,7 +295,6 @@ export const luxuryServices: LuxuryService[] = [
       'Southern Highlands',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Property Management Expert',
       'Luxury Service Standards',
       'Tenant Screening',
@@ -338,7 +329,6 @@ export const luxuryServices: LuxuryService[] = [
       'Tournament Hills',
     ],
     credentials: [
-      'Berkshire Hathaway HomeServices',
       'Signature Service Expert',
       'Ultimate Client Experience',
       'Exclusive Access',

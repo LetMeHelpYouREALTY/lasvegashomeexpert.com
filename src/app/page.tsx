@@ -59,7 +59,7 @@ export default function HomePage() {
             '@context': 'https://schema.org',
             '@type': 'RealEstateAgent',
             name: 'Dr. Jan Duffy',
-            description: 'Las Vegas luxury real estate specialist since 2013',
+            description: 'Las Vegas luxury real estate specialist, licensed since 2008 · 35 years in Las Vegas',
             url: 'https://lasvegashomeexpert.com',
             telephone: '702-500-1955',
             email: 'DrJanSells@LasVegasHomeExpert.com',
@@ -112,22 +112,6 @@ export default function HomePage() {
             priceRange: '$1,000,000+',
             foundingDate: '2013',
             numberOfEmployees: '1',
-            review: [
-              {
-                '@type': 'Review',
-                reviewRating: {
-                  '@type': 'Rating',
-                  ratingValue: '5',
-                  bestRating: '5',
-                },
-                author: {
-                  '@type': 'Person',
-                  name: 'Sarah M.',
-                },
-                reviewBody:
-                  'Dr. Duffy helped us find our dream home in Red Rock Country Club. Her expertise in luxury real estate is unmatched.',
-              },
-            ],
             hasOfferCatalog: {
               '@type': 'OfferCatalog',
               name: 'Luxury Real Estate Services',
@@ -228,9 +212,7 @@ export default function HomePage() {
               </h3>
               <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
                 <p itemProp="text" className="text-slate-600 leading-relaxed">
-                  Dr. Jan Duffy with Berkshire Hathaway HomeServices Nevada specializes in Summerlin
-                  luxury estates, with over 10 years experience since 2013 in Red Rock Country Club
-                  and The Ridges.
+                  Dr. Jan Duffy specializes in Summerlin luxury estates in Red Rock Country Club and The Ridges. She is licensed since 2008 · 35 years in Las Vegas.
                 </p>
               </div>
             </div>
@@ -267,11 +249,11 @@ export default function HomePage() {
           <div className="mb-12">
             <div className="bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-lg p-8 max-w-2xl mx-auto">
               <div className="text-6xl font-bold mb-2">
-                5.0/5
+                5.0★
               </div>
-              <div className="text-xl mb-2">stars from</div>
+              <div className="text-xl mb-2">on Realtor.com</div>
               <div className="text-3xl font-semibold">
-                50 Realtor.com reviews
+                (50 reviews)
               </div>
             </div>
           </div>
@@ -279,12 +261,12 @@ export default function HomePage() {
           {/* Enhanced Credentials Grid */}
           <div className="grid md:grid-cols-4 gap-8 max-w-6xl mx-auto mb-12">
             <div className="bg-slate-50 rounded-lg p-6">
-              <h3 className="text-3xl font-bold text-blue-600 mb-2">$180M+</h3>
-              <p className="text-slate-600">Total Luxury Sales Volume</p>
+              <h3 className="text-3xl font-bold text-blue-600 mb-2">$127M+</h3>
+              <p className="text-slate-600">Total Sales Volume</p>
             </div>
             <div className="bg-slate-50 rounded-lg p-6">
-              <h3 className="text-3xl font-bold text-blue-600 mb-2">15+ Years</h3>
-              <p className="text-slate-600">Licensed REALTOR® since 2013</p>
+              <h3 className="text-3xl font-bold text-blue-600 mb-2">35 Years</h3>
+              <p className="text-slate-600">In Las Vegas · licensed since 2008</p>
             </div>
             <div className="bg-slate-50 rounded-lg p-6">
               <h3 className="text-3xl font-bold text-blue-600 mb-2">500+</h3>
@@ -425,8 +407,7 @@ export default function HomePage() {
               </h3>
               <div itemScope itemProp="acceptedAnswer" itemType="https://schema.org/Answer">
                 <p itemProp="text" className="text-slate-600 leading-relaxed">
-                  <strong>Answer:</strong> Dr. Duffy combines 10+ years of luxury real estate
-                  experience with a psychology background, specializing in divorce real estate and
+                  <strong>Answer:</strong> Dr. Duffy, licensed since 2008 · 35 years in Las Vegas, combines luxury real estate experience with a psychology background, specializing in divorce real estate and
                   veteran services. She has 500+ successful transactions in Red Rock, Summerlin, and
                   MacDonald Highlands.
                 </p>
@@ -528,9 +509,7 @@ export default function HomePage() {
                 Unmatched Luxury Real Estate Expertise
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed mb-4">
-                With over 15 years of experience in Las Vegas luxury real estate, Dr. Jan Duffy has
-                established herself as the premier real estate agent for high-end properties. Since
-                2013, she has specialized in luxury homes priced from $1 million to $25 million+ in
+                Licensed since 2008 · 35 years in Las Vegas, Dr. Jan Duffy has established herself as the premier real estate agent for high-end properties. She has specialized in luxury homes priced from $1 million to $25 million+ in
                 Las Vegas's most prestigious neighborhoods including Red Rock Country Club, The
                 Ridges Summerlin, MacDonald Highlands, and Southern Highlands.
               </p>
@@ -546,9 +525,7 @@ export default function HomePage() {
               </h3>
               <p className="text-lg text-slate-600 leading-relaxed">
                 Dr. Jan Duffy has successfully closed over 500 luxury real estate transactions,
-                representing more than $180 million in total sales volume. Her consistent
-                performance has earned her recognition as a top 1% producer with Berkshire Hathaway
-                HomeServices Nevada Properties. With a 5.0★ rating from 50 Realtor.com
+                representing $127M+ in total sales volume. With a 5.0★ rating from 50 Realtor.com
                 reviews, Dr. Duffy's reputation for excellence speaks for itself.
               </p>
             </div>

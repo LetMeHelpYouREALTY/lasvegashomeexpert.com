@@ -30,15 +30,6 @@ export interface LuxurySpecialty {
 
 export const luxuryCredentials: LuxuryCredential[] = [
   {
-    id: 'berkshire-hathaway',
-    title: 'Berkshire Hathaway HomeServices',
-    description: 'Premier luxury real estate network with global reach and exclusive clientele',
-    year: '2014-Present',
-    category: 'membership',
-    icon: '🏢',
-    exclusivity: 'exclusive',
-  },
-  {
     id: 'luxury-home-specialist',
     title: 'Luxury Home Specialist Designation',
     description:
@@ -78,7 +69,7 @@ export const luxuryCredentials: LuxuryCredential[] = [
   {
     id: 'top-1-percent',
     title: '5.0★ on Realtor.com',
-    description: 'Consistently ranked in the top 1% of luxury real estate professionals',
+    description: '50 reviews',
     year: '2022-2024',
     category: 'achievement',
     icon: '🥇',
@@ -126,9 +117,9 @@ export const luxuryAchievements: LuxuryAchievement[] = [
   },
   {
     id: '10-years-experience',
-    title: '10+ Years Luxury Experience',
-    description: 'Over a decade of specialized experience in luxury real estate markets',
-    metric: '10+',
+    title: 'Licensed since 2008',
+    description: '35 years in Las Vegas',
+    metric: '35',
     year: '2024',
     category: 'service',
     icon: '⏰',

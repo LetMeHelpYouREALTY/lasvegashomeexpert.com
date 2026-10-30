@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Contact Dr. Jan Duffy | Las Vegas Home Expert | Real Estate Expert',
   description:
-    'Get in touch with Dr. Jan Duffy for expert real estate services in Las Vegas. Available 24/7 via phone (702) 500-1955, email, or text. Berkshire Hathaway HomeServices.',
+    'Get in touch with Dr. Jan Duffy for expert real estate services in Las Vegas. Available 24/7 via phone (702) 500-1955, email, or text.',
   keywords:
     'contact real estate agent Las Vegas, Dr. Jan Duffy contact, Las Vegas realtor phone, real estate consultation Las Vegas',
   robots: {

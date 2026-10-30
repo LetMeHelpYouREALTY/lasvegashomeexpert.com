@@ -30,14 +30,14 @@ export default function AboutDrJanDuffyPage() {
       year: '2024',
     },
     {
-      achievement: '15+ Years Experience',
-      description: 'Over 15 years of dedicated service in Las Vegas real estate',
+      achievement: 'Licensed since 2008',
+      description: '35 years in Las Vegas',
       icon: '⏰',
-      year: '2009-2024',
+      year: '2008-Present',
     },
     {
       achievement: '5.0★ on Realtor.com',
-      description: 'Consistently ranked in the top 1% of real estate agents',
+      description: '50 reviews',
       icon: '🏆',
       year: '2024',
     },
@@ -54,25 +54,25 @@ export default function AboutDrJanDuffyPage() {
       specialty: 'Luxury Homes',
       description: 'Expert in high-end properties and luxury real estate',
       icon: '✨',
-      experience: '10+ years',
+      experience: 'Licensed since 2008',
     },
     {
       specialty: 'First-Time Buyers',
       description: 'Guiding new buyers through their first home purchase',
       icon: '🔑',
-      experience: '15+ years',
+      experience: 'Licensed since 2008',
     },
     {
       specialty: 'Investment Properties',
       description: 'Strategic investment property selection and management',
       icon: '📈',
-      experience: '12+ years',
+      experience: 'Licensed since 2008',
     },
     {
       specialty: 'Relocation Services',
       description: 'Comprehensive relocation support for families and professionals',
       icon: '🚚',
-      experience: '8+ years',
+      experience: 'Licensed since 2008',
     },
   ];
 
@@ -102,7 +102,7 @@ export default function AboutDrJanDuffyPage() {
 
   const education = [
     {
-      degree: 'Ph.D. in Business Administration',
+      degree: 'Ph.D. in Research',
       school: 'University of Nevada, Las Vegas',
       year: '2015',
       focus: 'Real Estate Economics & Market Analysis',
@@ -149,7 +149,7 @@ export default function AboutDrJanDuffyPage() {
                 <span className="text-primary-200">|</span>
                 <span className="font-semibold">500+ Families Helped</span>
                 <span className="text-primary-200">|</span>
-                <span className="font-semibold">15+ Years Experience</span>
+                <span className="font-semibold">35 Years in Las Vegas</span>
               </div>
             </div>
 
@@ -219,15 +219,14 @@ export default function AboutDrJanDuffyPage() {
               </h2>
               <p className="text-lg text-neutral-600 mb-6">
                 Dr. Jan Duffy is more than just a real estate agent – she\'s your dedicated partner
-                in achieving your real estate goals. With over 15 years of experience and a Ph.D. in
-                Business Administration, Dr. Duffy brings unparalleled expertise to every
+                in achieving your real estate goals. Licensed since 2008 · 35 years in Las Vegas, with a Ph.D. in Research, Dr. Duffy brings unparalleled expertise to every
                 transaction.
               </p>
               <p className="text-lg text-neutral-600 mb-6">
                 Her deep understanding of the Las Vegas market, combined with her commitment to
                 exceptional client service, has made her one of the most trusted names in local real
                 estate. Dr. Duffy has successfully guided over 500 families through their real
-                estate journey, earning her a place in the top 1% of real estate producers.
+                estate journey.
               </p>
               <button
                 type="button"
@@ -498,8 +497,7 @@ export default function AboutDrJanDuffyPage() {
                 Professional Background and Expertise
               </h3>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
-                Dr. Jan Duffy has been a licensed REALTOR® in Las Vegas since 2013, bringing over 15
-                years of experience and expertise to every real estate transaction. Her background
+                Dr. Jan Duffy is a REALTOR® licensed since 2008 · 35 years in Las Vegas, bringing experience and expertise to every real estate transaction. Her background
                 combines advanced education with extensive practical experience, making her uniquely
                 qualified to serve clients in the Las Vegas luxury real estate market.
               </p>
@@ -533,10 +531,7 @@ export default function AboutDrJanDuffyPage() {
               <h3 className="text-2xl font-bold text-primary-900 mb-6">Track Record of Success</h3>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 Dr. Duffy's accomplishments speak to her effectiveness as a real estate
-                professional. With over 500 successful transactions representing more than $180
-                million in sales volume, she has established herself as one of Las Vegas's top real
-                estate agents. Her consistent performance has earned recognition as a top 1%
-                producer with Berkshire Hathaway HomeServices Nevada Properties.
+                professional. With 500+ successful transactions representing $127M+ in sales volume, she has established herself as one of Las Vegas's top real estate agents.
               </p>
               <p className="text-lg text-neutral-600 leading-relaxed mb-4">
                 Her success is reflected in client satisfaction, with a 5.0★ rating from 50 Realtor.com
@@ -573,7 +568,7 @@ export default function AboutDrJanDuffyPage() {
               <div>
                 <h4 className="text-xl font-bold text-primary-800 mb-4">Deep Market Knowledge</h4>
                 <p className="text-neutral-600 leading-relaxed mb-4">
-                  Dr. Duffy's 15+ years of experience in Las Vegas real estate provides
+                  Dr. Duffy's experience (licensed since 2008 · 35 years in Las Vegas) provides
                   comprehensive understanding of market trends, neighborhood characteristics, and
                   property values. This expertise enables her to provide accurate pricing, identify
                   opportunities, and guide clients to make informed decisions that align with their
@@ -659,7 +654,7 @@ export default function AboutDrJanDuffyPage() {
                 successfully.
               </p>
               <p className="text-neutral-600 leading-relaxed">
-                Her track record of 500+ successful transactions and $180M+ in sales volume
+                Her track record of 500+ successful transactions and $127M+ in sales volume
                 demonstrates her ability to deliver results consistently. This results-driven
                 approach ensures clients achieve their real estate goals while receiving exceptional
                 service throughout the process.
