@@ -6,6 +6,8 @@ import Footer from '@/components/layout/Footer';
 import Header from '@/components/layout/Header';
 import OrganizationSchema from '@/components/schema/OrganizationSchema';
 import KnowledgeGraphSchema from '@/components/schema/KnowledgeGraphSchema';
+import { Analytics as VercelAnalytics } from "@vercel/analytics/next";
+import { SpeedInsights as VercelSpeedInsights } from "@vercel/speed-insights/next";
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -253,6 +255,8 @@ export default function RootLayout({
           window.widgetTracker("create", "WT-XQHVYQWW");
           window.widgetTracker("send", "pageview");
         `}</Script>
+        <VercelAnalytics />
+        <VercelSpeedInsights />
       </body>
     </html>
   );
