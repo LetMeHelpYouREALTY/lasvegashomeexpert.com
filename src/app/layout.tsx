@@ -95,7 +95,9 @@ export const metadata: Metadata = {
   },
   metadataBase: new URL('https://lasvegashomeexpert.com'),
   alternates: {
-    canonical: 'https://lasvegashomeexpert.com',
+    // './' resolves to each page's own URL (self-canonical). A fixed homepage
+    // URL here was inherited by every page without its own canonical.
+    canonical: './',
   },
   category: 'Real Estate',
 };

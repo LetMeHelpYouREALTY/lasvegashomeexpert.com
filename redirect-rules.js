@@ -539,7 +539,7 @@ const redirects = [
   },
   {
     source: '/neighborhoods/macdonald-highlands',
-    destination: '/neighborhoods',
+    destination: '/neighborhoods/henderson-homes',
     permanent: true,
   },
   {

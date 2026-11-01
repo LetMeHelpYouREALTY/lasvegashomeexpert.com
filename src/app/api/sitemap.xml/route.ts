@@ -99,6 +99,12 @@ const legitimatePages = [
 
   // Neighborhood pages - HIGH priority for local SEO
   {
+    slug: 'neighborhoods',
+    priority: '0.9',
+    changefreq: 'weekly',
+    lastmod: today,
+  },
+  {
     slug: 'neighborhoods/summerlin-homes',
     priority: '0.9',
     changefreq: 'weekly',
@@ -135,19 +141,7 @@ const legitimatePages = [
     lastmod: today,
   },
   {
-    slug: 'neighborhoods/tournament-hills',
-    priority: '0.9',
-    changefreq: 'weekly',
-    lastmod: today,
-  },
-  {
     slug: 'neighborhoods/southern-highlands-homes',
-    priority: '0.9',
-    changefreq: 'weekly',
-    lastmod: today,
-  },
-  {
-    slug: 'neighborhoods/southern-highlands',
     priority: '0.9',
     changefreq: 'weekly',
     lastmod: today,
