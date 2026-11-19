@@ -290,7 +290,7 @@ Your site already has:
 ✅ **Dynamic sitemap with priorities and change frequencies**
 ✅ **Image sitemap for Google Image Search**
 ✅ **Comprehensive structured data** (9 schema types)
-✅ **Google Analytics 4** (tracking ID: G-57C81JLMQW)
+✅ **Google Analytics 4** (tracking ID: G-YQPSWG44ZC)
 ✅ **Mobile-responsive design**
 ✅ **Fast loading** (Next.js optimizations)
 ✅ **Canonical URLs** (www → non-www redirects)

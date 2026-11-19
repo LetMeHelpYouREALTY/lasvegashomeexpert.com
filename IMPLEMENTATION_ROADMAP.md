@@ -9,7 +9,7 @@ Based on 2026 best practices from parallel research and Nate's Newsletter insigh
 - ✅ Comprehensive structured data (9 schema types)
 - ✅ Dynamic sitemaps (main + image + index)
 - ✅ robots.txt with AI crawler allowance
-- ✅ Google Analytics 4 integration (G-57C81JLMQW)
+- ✅ Google Analytics 4 integration (G-YQPSWG44ZC)
 - ✅ Open Graph and Twitter Card meta tags
 - ✅ 47+ SEO-optimized pages
 - ✅ Mobile-responsive Tailwind CSS design

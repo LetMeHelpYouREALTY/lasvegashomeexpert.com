@@ -137,7 +137,7 @@ Use this checklist to ensure your Las Vegas Home Expert website is fully prepare
     - [ ] Real estate service schema
 
 - [ ] **Verify Google Analytics**
-  - GA4 tracking code present (G-57C81JLMQW)
+  - GA4 tracking code present (G-YQPSWG44ZC)
   - Events being tracked
   - Real-time data showing
 
