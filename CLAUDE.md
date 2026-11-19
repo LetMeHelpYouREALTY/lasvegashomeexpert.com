@@ -13,7 +13,7 @@
 - **Framework:** Next.js 14 with App Router
 - **Styling:** Tailwind CSS
 - **Deployment:** Vercel
-- **Analytics:** Google Analytics 4 (G-57C81JLMQW)
+- **Analytics:** Google Analytics 4 (G-YQPSWG44ZC)
 - **SEO:** Dynamic sitemaps, structured data, robots.txt
 
 ### Key Features
@@ -405,7 +405,7 @@ Know when NOT to use AI:
 - **Sitemap Index:** https://lasvegashomeexpert.com/sitemap-index.xml
 - **Main Sitemap:** https://lasvegashomeexpert.com/sitemap.xml
 - **Robots.txt:** https://lasvegashomeexpert.com/robots.txt
-- **Google Analytics:** G-57C81JLMQW
+- **Google Analytics:** G-YQPSWG44ZC
 
 ### Key Files
 - `src/app/layout.tsx` - Root layout, global metadata
